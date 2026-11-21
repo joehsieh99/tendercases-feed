@@ -1,0 +1,6111 @@
+{
+ "schema": 1,
+ "generated_at": "2026-11-21T18:01:34.159067+08:00",
+ "mode": "daily",
+ "window": {
+  "from": "2026-11-15",
+  "to": "2026-11-21"
+ },
+ "started": "2026-11-21T18:00:38.774986+08:00",
+ "finished": "2026-11-21T18:01:34.157582+08:00",
+ "health": {
+  "status": "ok",
+  "consecutive_degraded": 0,
+  "latest_data_time": "2026-11-20T00:00:00+08:00",
+  "issues": [
+   {
+    "level": "info",
+    "code": "no_data_off_day",
+    "day": "2026-11-21",
+    "msg": "非上班日無公告（週末）"
+   }
+  ],
+  "day_counts": {
+   "2026-11-15": 1,
+   "2026-11-16": 2341,
+   "2026-11-17": 2667,
+   "2026-11-18": 3643,
+   "2026-11-19": 3334,
+   "2026-11-20": 3496
+  }
+ },
+ "stats": {
+  "fetched_notices": 15482,
+  "new_candidates": 0,
+  "new_notices": 0,
+  "details_fetched": 0,
+  "detail_errors": 0,
+  "events": 0,
+  "api_calls": 11
+ },
+ "changes": [
+  {
+   "event_id": 469,
+   "at": "2026-11-18T18:28:30.482269+08:00",
+   "change_type": "new",
+   "key": "A.19.2|K11511117-1",
+   "job_number": "K11511117-1",
+   "title": "漁業署資料中台暨AI應用整體規劃案",
+   "unit_name": "農業部漁業署",
+   "detail": {}
+  },
+  {
+   "event_id": 470,
+   "at": "2026-11-18T18:28:31.078214+08:00",
+   "change_type": "new",
+   "key": "A.5.24|NP15047P",
+   "job_number": "NP15047P",
+   "title": "智慧病房戰情監控平台",
+   "unit_name": "國防醫學大學",
+   "detail": {}
+  },
+  {
+   "event_id": 471,
+   "at": "2026-11-18T18:28:31.674562+08:00",
+   "change_type": "new",
+   "key": "3.13.31.48|1151117",
+   "job_number": "1151117",
+   "title": "116年資訊系統維護",
+   "unit_name": "台灣電力股份有限公司大林發電廠",
+   "detail": {}
+  },
+  {
+   "event_id": 472,
+   "at": "2026-11-18T18:28:32.291283+08:00",
+   "change_type": "new",
+   "key": "3.13.50.47|UCB158C012",
+   "job_number": "UCB158C012",
+   "title": "廢棄物處理工場煙囪排放監測系統維護工作",
+   "unit_name": "台灣中油股份有限公司石化事業部",
+   "detail": {}
+  },
+  {
+   "event_id": 473,
+   "at": "2026-11-18T18:28:32.893895+08:00",
+   "change_type": "new",
+   "key": "3.82.32|1152278365",
+   "job_number": "1152278365",
+   "title": "AI 影像辨識CCTV採購案",
+   "unit_name": "新北市政府消防局",
+   "detail": {}
+  },
+  {
+   "event_id": 474,
+   "at": "2026-11-18T18:28:33.492601+08:00",
+   "change_type": "new",
+   "key": "3.71.1.37|115111701",
+   "job_number": "115111701",
+   "title": "金門縣衛生局補助暨發放作業整合系統功能增修及維護案",
+   "unit_name": "金門縣衛生局",
+   "detail": {}
+  },
+  {
+   "event_id": 475,
+   "at": "2026-11-18T18:28:45.540113+08:00",
+   "change_type": "new",
+   "key": "3.80.12|1151118F-1",
+   "job_number": "1151118F-1",
+   "title": "桃園市政府社會局委託辦理116年度桃園市志願服務整合資訊平台功能擴充維護案",
+   "unit_name": "桃園市政府社會局",
+   "detail": {}
+  },
+  {
+   "event_id": 476,
+   "at": "2026-11-18T18:28:55.763463+08:00",
+   "change_type": "new",
+   "key": "A.21.2|MOHW116-FDA-D-113-000431",
+   "job_number": "MOHW116-FDA-D-113-000431",
+   "title": "116年度「西藥專利連結登載系統維運及擴充案」",
+   "unit_name": "衛生福利部食品藥物管理署",
+   "detail": {}
+  },
+  {
+   "event_id": 477,
+   "at": "2026-11-18T18:28:57.595215+08:00",
+   "change_type": "new",
+   "key": "3.76.54|115940430670",
+   "job_number": "115940430670",
+   "title": "116年度臺東縣政府網路社群平台經營行銷勞務採購案",
+   "unit_name": "臺東縣政府",
+   "detail": {}
+  },
+  {
+   "event_id": 478,
+   "at": "2026-11-18T18:29:08.389475+08:00",
+   "change_type": "corrected",
+   "key": "A.57|115111079",
+   "job_number": "115111079",
+   "title": "行政院主計總處「116年客服資訊系統增修暨維護服務案」勞務採購案",
+   "unit_name": "行政院主計總處",
+   "detail": {
+    "type": "經公開評選或公開徵求之限制性招標更正公告"
+   }
+  },
+  {
+   "event_id": 479,
+   "at": "2026-11-18T18:29:10.202545+08:00",
+   "change_type": "corrected",
+   "key": "3.13.31.48|20261104",
+   "job_number": "20261104",
+   "title": "Gutor充電機系統升級一批(採購帶安裝)",
+   "unit_name": "台灣電力股份有限公司大林發電廠",
+   "detail": {
+    "type": "公開徵求廠商提供參考資料更正公告"
+   }
+  },
+  {
+   "event_id": 480,
+   "at": "2026-11-18T18:29:10.801083+08:00",
+   "change_type": "unawardable",
+   "key": "3.10.5|115A11890008",
+   "job_number": "115A11890008",
+   "title": "圖書館電子資源管理系統維護案",
+   "unit_name": "國立臺北科技大學",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 481,
+   "at": "2026-11-18T18:29:11.400286+08:00",
+   "change_type": "awarded",
+   "key": "3.32.11|115-00002",
+   "job_number": "115-00002",
+   "title": "屏東縣榮民服務處115年參加輔導會績優榮欣志願服務暨榮民照護數位轉型頒獎活動及參訪行程採購案",
+   "unit_name": "國軍退除役官兵輔導委員會屏東縣榮民服務處",
+   "detail": {
+    "amount": 204930,
+    "vendor": "惠名國際旅行社有限公司"
+   }
+  },
+  {
+   "event_id": 482,
+   "at": "2026-11-18T18:29:15.597456+08:00",
+   "change_type": "unawardable",
+   "key": "3.10.5|115A11890006",
+   "job_number": "115A11890006",
+   "title": "圖書館自動化系統維護案",
+   "unit_name": "國立臺北科技大學",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 483,
+   "at": "2026-11-18T18:29:20.993481+08:00",
+   "change_type": "awarded",
+   "key": "3.79.13.2|CID11603",
+   "job_number": "CID11603",
+   "title": "116年度毒品裁罰暨毒品證物管理系統維護",
+   "unit_name": "臺北市政府警察局刑事警察大隊",
+   "detail": {
+    "amount": 236047,
+    "vendor": "憶瀞企業社"
+   }
+  },
+  {
+   "event_id": 484,
+   "at": "2026-11-18T18:29:21.596706+08:00",
+   "change_type": "unawardable",
+   "key": "91110012|PR2025110301068",
+   "job_number": "PR2025110301068",
+   "title": "新生兒處理平台",
+   "unit_name": "財團法人屏東基督教醫院",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 486,
+   "at": "2026-11-18T18:29:33.616151+08:00",
+   "change_type": "deadline_extended",
+   "key": "A.21.100.52|lslp-2540-11530",
+   "job_number": "lslp-2540-11530",
+   "title": "動力中心2樓熱水鍋爐系統建置",
+   "unit_name": "衛生福利部樂生醫院",
+   "detail": {
+    "from": "2026-11-05",
+    "to": "2026-11-24"
+   }
+  },
+  {
+   "event_id": 488,
+   "at": "2026-11-18T18:29:36.021445+08:00",
+   "change_type": "awarded",
+   "key": "3.10.90.41|CUTE115T08",
+   "job_number": "CUTE115T08",
+   "title": "AI運算工作站含螢幕15組",
+   "unit_name": "中國科技大學",
+   "detail": {
+    "amount": 1770000,
+    "vendor": "矽惟企業有限公司"
+   }
+  },
+  {
+   "event_id": 489,
+   "at": "2026-11-18T18:29:36.621974+08:00",
+   "change_type": "deadline_extended",
+   "key": "3.13.52.8|1150801",
+   "job_number": "1150801",
+   "title": "116年國土資訊委外數作業",
+   "unit_name": "台灣自來水股份有限公司第八區管理處",
+   "detail": {
+    "from": "2026-11-13",
+    "to": "2026-11-24"
+   }
+  },
+  {
+   "event_id": 490,
+   "at": "2026-11-18T18:29:40.816190+08:00",
+   "change_type": "unawardable",
+   "key": "17713214|Y115102901",
+   "job_number": "Y115102901",
+   "title": "資電學院-AI超級電腦8組",
+   "unit_name": "亞洲大學",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 491,
+   "at": "2026-11-18T18:29:46.829342+08:00",
+   "change_type": "awarded",
+   "key": "A.7.31.1|133-115-B215",
+   "job_number": "133-115-B215",
+   "title": "AI輔助辦公工具創新實作及推廣應用專案",
+   "unit_name": "臺灣銀行股份有限公司",
+   "detail": {
+    "amount": 2285000,
+    "vendor": "精誠軟體服務股份有限公司 (Systex Software & Service Corporation)"
+   }
+  },
+  {
+   "event_id": 492,
+   "at": "2026-11-18T18:29:49.269698+08:00",
+   "change_type": "awarded",
+   "key": "A.11.9|SPO-1151001",
+   "job_number": "SPO-1151001",
+   "title": "最高檢察署116年度檢察案件管理系統維護委外服務採購案",
+   "unit_name": "最高檢察署",
+   "detail": {
+    "amount": 480000,
+    "vendor": "宏碁資訊服務股份有限公司 (ACER E-ENABLING SERVICE BUSINESS INC.)"
+   }
+  },
+  {
+   "event_id": 493,
+   "at": "2026-11-18T18:30:00.673283+08:00",
+   "change_type": "awarded",
+   "key": "3.13.50.41.4|DEA1541007",
+   "job_number": "DEA1541007",
+   "title": "115年台中港供油服務中心ISO 50001能源管理系統輔導建置及驗證工作",
+   "unit_name": "台灣中油股份有限公司油品行銷事業部台中營業處",
+   "detail": {
+    "amount": 960000,
+    "vendor": "華宇企業管理顧問股份有限公司"
+   }
+  },
+  {
+   "event_id": 494,
+   "at": "2026-11-18T18:30:01.273595+08:00",
+   "change_type": "awarded",
+   "key": "3.32.80|Z115712K",
+   "job_number": "Z115712K",
+   "title": "AI服務使用額度",
+   "unit_name": "臺北榮民總醫院",
+   "detail": {
+    "amount": 1138989,
+    "vendor": "睿釀運算有限公司"
+   }
+  },
+  {
+   "event_id": 495,
+   "at": "2026-11-19T01:24:34.350423+08:00",
+   "change_type": "new",
+   "key": "3.79.3.1|1160122901",
+   "job_number": "1160122901",
+   "title": "116年資料庫維護案",
+   "unit_name": "臺北市稅捐稽徵處",
+   "detail": {}
+  },
+  {
+   "event_id": 496,
+   "at": "2026-11-19T01:24:34.962036+08:00",
+   "change_type": "new",
+   "key": "A.9.6M|F115116",
+   "job_number": "F115116",
+   "title": "教師知識管理AI運算平台建置",
+   "unit_name": "國立陽明交通大學",
+   "detail": {}
+  },
+  {
+   "event_id": 497,
+   "at": "2026-11-19T01:24:35.551806+08:00",
+   "change_type": "new",
+   "key": "A.15.2|115209A",
+   "job_number": "115209A",
+   "title": "116-117年地震中心傳真伺服系統維護案",
+   "unit_name": "交通部中央氣象署",
+   "detail": {}
+  },
+  {
+   "event_id": 498,
+   "at": "2026-11-19T01:24:36.156824+08:00",
+   "change_type": "new",
+   "key": "3.79.14|P11601",
+   "job_number": "P11601",
+   "title": "116年度衛生稽查科公文及文書資料處理等業務」勞務採購案",
+   "unit_name": "臺北市政府衛生局",
+   "detail": {}
+  },
+  {
+   "event_id": 499,
+   "at": "2026-11-19T01:24:36.761878+08:00",
+   "change_type": "new",
+   "key": "4|1151000393",
+   "job_number": "1151000393",
+   "title": "立法院「116年度議政博物館全球資訊網與數位典藏及文物管理系統維護案」",
+   "unit_name": "立法院",
+   "detail": {}
+  },
+  {
+   "event_id": 500,
+   "at": "2026-11-19T01:24:40.954240+08:00",
+   "change_type": "new",
+   "key": "A.21|M1502497",
+   "job_number": "M1502497",
+   "title": "1925安心專線人工智慧通話分析與支持功能初探",
+   "unit_name": "衛生福利部",
+   "detail": {}
+  },
+  {
+   "event_id": 501,
+   "at": "2026-11-19T01:24:41.547595+08:00",
+   "change_type": "new",
+   "key": "3.10.3|1151113159",
+   "job_number": "1151113159",
+   "title": "116年度校園資訊系統維運案",
+   "unit_name": "國立屏東科技大學",
+   "detail": {}
+  },
+  {
+   "event_id": 502,
+   "at": "2026-11-19T01:24:42.136118+08:00",
+   "change_type": "new",
+   "key": "A.19.13|115035-AR",
+   "job_number": "115035-AR",
+   "title": "實驗動物產銷管理系統改版－核心功能建置",
+   "unit_name": "農業部獸醫研究所",
+   "detail": {}
+  },
+  {
+   "event_id": 503,
+   "at": "2026-11-19T01:24:46.309762+08:00",
+   "change_type": "new",
+   "key": "4|1151300098",
+   "job_number": "1151300098",
+   "title": "立法院「116年度立法資料庫資料掃描建檔作業案」",
+   "unit_name": "立法院",
+   "detail": {}
+  },
+  {
+   "event_id": 504,
+   "at": "2026-11-19T01:24:49.316967+08:00",
+   "change_type": "corrected",
+   "key": "3.82.5.94|jd1151117",
+   "job_number": "jd1151117",
+   "title": "新北市115年度「AI創新，教育同行」教育事務年終檢討會計畫",
+   "unit_name": "新北市立正德國民中學",
+   "detail": {
+    "type": "公開取得報價單或企劃書更正公告"
+   }
+  },
+  {
+   "event_id": 505,
+   "at": "2026-11-19T01:24:54.082994+08:00",
+   "change_type": "awarded",
+   "key": "A.21.100.32|AA1151109",
+   "job_number": "AA1151109",
+   "title": "全玻片數位化成像採購案",
+   "unit_name": "衛生福利部臺北醫院",
+   "detail": {
+    "amount": 485000,
+    "vendor": "雲象科技股份有限公司 (aetherAI Co., Ltd.)"
+   }
+  },
+  {
+   "event_id": 506,
+   "at": "2026-11-19T01:24:54.675896+08:00",
+   "change_type": "deadline_extended",
+   "key": "3.10.5|115A11890008",
+   "job_number": "115A11890008",
+   "title": "圖書館電子資源管理系統維護案",
+   "unit_name": "國立臺北科技大學",
+   "detail": {
+    "from": "2026-11-17",
+    "to": "2026-11-23"
+   }
+  },
+  {
+   "event_id": 507,
+   "at": "2026-11-19T01:24:58.872061+08:00",
+   "change_type": "deadline_extended",
+   "key": "3.10.5|115A11890006",
+   "job_number": "115A11890006",
+   "title": "圖書館自動化系統維護案",
+   "unit_name": "國立臺北科技大學",
+   "detail": {
+    "from": "2026-11-17",
+    "to": "2026-11-23"
+   }
+  },
+  {
+   "event_id": 508,
+   "at": "2026-11-19T01:25:00.669377+08:00",
+   "change_type": "awarded",
+   "key": "3.87.33|115074",
+   "job_number": "115074",
+   "title": "2027大墩美展網站及評審系統維護資訊服務採購案",
+   "unit_name": "臺中市政府文化局",
+   "detail": {
+    "amount": 300000,
+    "vendor": "明莘科技有限公司"
+   }
+  },
+  {
+   "event_id": 509,
+   "at": "2026-11-19T01:25:01.279627+08:00",
+   "change_type": "deadline_extended",
+   "key": "3.87.2|ca11603",
+   "job_number": "ca11603",
+   "title": "116年度戶政便民服務作業系統維護採購案",
+   "unit_name": "臺中市政府民政局",
+   "detail": {
+    "from": "2026-11-11",
+    "to": "2026-11-23"
+   }
+  },
+  {
+   "event_id": 510,
+   "at": "2026-11-19T01:25:01.871725+08:00",
+   "change_type": "deadline_extended",
+   "key": "3.80.33.4|115tm102",
+   "job_number": "115tm102",
+   "title": "「桃源國際藝術獎」國際徵件平台系統優化維護及視覺設計案",
+   "unit_name": "桃園市立美術館",
+   "detail": {
+    "from": "2026-11-09",
+    "to": "2026-11-23"
+   }
+  },
+  {
+   "event_id": 511,
+   "at": "2026-11-19T01:25:06.057808+08:00",
+   "change_type": "deadline_extended",
+   "key": "3.76.44.54|1150122",
+   "job_number": "1150122",
+   "title": "116年度網路社群平台經營行銷案",
+   "unit_name": "新竹縣竹東鎮公所",
+   "detail": {
+    "from": "2026-11-16",
+    "to": "2026-12-01"
+   }
+  },
+  {
+   "event_id": 512,
+   "at": "2026-11-19T18:35:46.870094+08:00",
+   "change_type": "new",
+   "key": "3.13.31|A0771500010",
+   "job_number": "A0771500010",
+   "title": "DREAMS功能性擴充（含單向傳輸、資安架構強化及系統平台升級）",
+   "unit_name": "台灣電力股份有限公司",
+   "detail": {}
+  },
+  {
+   "event_id": 513,
+   "at": "2026-11-19T18:35:47.466501+08:00",
+   "change_type": "new",
+   "key": "3.71.2.63|N115210630164",
+   "job_number": "N115210630164",
+   "title": "116年無線電系統維護採購",
+   "unit_name": "金門縣採購招標所",
+   "detail": {}
+  },
+  {
+   "event_id": 514,
+   "at": "2026-11-19T18:35:54.091259+08:00",
+   "change_type": "new",
+   "key": "A.25.100.3|115-1-26",
+   "job_number": "115-1-26",
+   "title": "典藏庫房櫃架系統建置暨空間配置優化採購案",
+   "unit_name": "國立臺灣文學館",
+   "detail": {}
+  },
+  {
+   "event_id": 515,
+   "at": "2026-11-19T18:35:59.494860+08:00",
+   "change_type": "new",
+   "key": "3.82.25|1151118A",
+   "job_number": "1151118A",
+   "title": "116年度河川公地許可系統及圖文資料庫新增維護",
+   "unit_name": "新北市政府水利局",
+   "detail": {}
+  },
+  {
+   "event_id": 516,
+   "at": "2026-11-19T18:36:00.092596+08:00",
+   "change_type": "new",
+   "key": "3.13.16|11580021980",
+   "job_number": "11580021980",
+   "title": "116年新辦公室自動化系統維護服務案",
+   "unit_name": "經濟部智慧財產局",
+   "detail": {}
+  },
+  {
+   "event_id": 517,
+   "at": "2026-11-19T18:36:01.318642+08:00",
+   "change_type": "new",
+   "key": "3.13.50|MEA1500020",
+   "job_number": "MEA1500020",
+   "title": "煉製事業部本部ISO 50001:2018能源管理系統輔導建置及驗證工作",
+   "unit_name": "台灣中油股份有限公司",
+   "detail": {}
+  },
+  {
+   "event_id": 518,
+   "at": "2026-11-19T18:36:01.958306+08:00",
+   "change_type": "new",
+   "key": "A.21.2|116TFDA-Q-016",
+   "job_number": "116TFDA-Q-016",
+   "title": "116年度「精進我國保健營養食品業品質管理系統計畫」",
+   "unit_name": "衛生福利部食品藥物管理署",
+   "detail": {}
+  },
+  {
+   "event_id": 519,
+   "at": "2026-11-19T18:36:02.563538+08:00",
+   "change_type": "new",
+   "key": "A.7.31.1|133-115-B260",
+   "job_number": "133-115-B260",
+   "title": "「臺銀行動+」APP資安檢測服務",
+   "unit_name": "臺灣銀行股份有限公司",
+   "detail": {}
+  },
+  {
+   "event_id": 520,
+   "at": "2026-11-19T18:36:07.355879+08:00",
+   "change_type": "new",
+   "key": "91602332|115-064-C1",
+   "job_number": "115-064-C1",
+   "title": "職災勞工資源整合平台建置案",
+   "unit_name": "財團法人職業災害預防及重建中心",
+   "detail": {}
+  },
+  {
+   "event_id": 521,
+   "at": "2026-11-19T18:36:07.954708+08:00",
+   "change_type": "new",
+   "key": "3.71.2.63|N115210630165",
+   "job_number": "N115210630165",
+   "title": "116年局本部網路電話系統及各分隊網路電話系統暨派遣電話專用錄音系統維護",
+   "unit_name": "金門縣採購招標所",
+   "detail": {}
+  },
+  {
+   "event_id": 522,
+   "at": "2026-11-19T18:36:12.184712+08:00",
+   "change_type": "new",
+   "key": "3.95.100.3|21160108",
+   "job_number": "21160108",
+   "title": "116年度臺南城市儀表板網站維護",
+   "unit_name": "臺南市政府智慧發展中心",
+   "detail": {}
+  },
+  {
+   "event_id": 523,
+   "at": "2026-11-19T18:36:12.787106+08:00",
+   "change_type": "new",
+   "key": "3.87.43|116C-04",
+   "job_number": "116C-04",
+   "title": "116年度差勤及費用請領表單系統維護案",
+   "unit_name": "臺中市政府數位發展局",
+   "detail": {}
+  },
+  {
+   "event_id": 524,
+   "at": "2026-11-19T18:36:14.592423+08:00",
+   "change_type": "new",
+   "key": "98229985A|11602004",
+   "job_number": "11602004",
+   "title": "土地公文化館「桃園神明坐騎特展」委託專業執行服務案",
+   "unit_name": "財團法人桃園市文化基金會",
+   "detail": {}
+  },
+  {
+   "event_id": 525,
+   "at": "2026-11-19T18:36:20.638697+08:00",
+   "change_type": "new",
+   "key": "3.79.21|11601",
+   "job_number": "11601",
+   "title": "116年人事服務網系統維護暨功能優化開發案",
+   "unit_name": "臺北市政府人事處",
+   "detail": {}
+  },
+  {
+   "event_id": 526,
+   "at": "2026-11-19T18:36:27.239376+08:00",
+   "change_type": "new",
+   "key": "A.5.5.2|HP16013P013",
+   "job_number": "HP16013P013",
+   "title": "會議系統維護",
+   "unit_name": "國防部電訊發展室",
+   "detail": {}
+  },
+  {
+   "event_id": 527,
+   "at": "2026-11-19T18:36:27.840433+08:00",
+   "change_type": "new",
+   "key": "3.13.32.45|5461500168",
+   "job_number": "5461500168",
+   "title": "鹽害風險資訊系統開發與建置1式",
+   "unit_name": "台灣電力股份有限公司綜合研究所",
+   "detail": {}
+  },
+  {
+   "event_id": 528,
+   "at": "2026-11-19T18:36:41.046830+08:00",
+   "change_type": "corrected",
+   "key": "3.82.11.1|1151124B",
+   "job_number": "1151124B",
+   "title": "116年網路社群平台推廣計畫",
+   "unit_name": "新北市政府採購處",
+   "detail": {
+    "type": "經公開評選或公開徵求之限制性招標更正公告"
+   }
+  },
+  {
+   "event_id": 529,
+   "at": "2026-11-19T18:36:45.844248+08:00",
+   "change_type": "awarded",
+   "key": "3.76.45.97.79|HLES1151110",
+   "job_number": "HLES1151110",
+   "title": "苗栗縣115年「AI人才方舟計畫」數位成果展(場佈典禮組)勞務採購案",
+   "unit_name": "苗栗縣後龍鎮後龍國民小學",
+   "detail": {
+    "amount": 670000,
+    "vendor": "順立印刷"
+   }
+  },
+  {
+   "event_id": 530,
+   "at": "2026-11-19T18:36:50.043746+08:00",
+   "change_type": "unawardable",
+   "key": "3.10.5|115A11890007",
+   "job_number": "115A11890007",
+   "title": "臺北聯合大學圖書資源共享平台維護案",
+   "unit_name": "國立臺北科技大學",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 531,
+   "at": "2026-11-19T18:36:50.647082+08:00",
+   "change_type": "corrected",
+   "key": "3.13.31.48|20261104",
+   "job_number": "20261104",
+   "title": "Gutor充電機系統升級一批(採購帶安裝)",
+   "unit_name": "台灣電力股份有限公司大林發電廠",
+   "detail": {
+    "type": "公開徵求廠商提供參考資料更正公告"
+   }
+  },
+  {
+   "event_id": 532,
+   "at": "2026-11-19T18:36:53.065441+08:00",
+   "change_type": "awarded",
+   "key": "3.15.86|A0S262121",
+   "job_number": "A0S262121",
+   "title": "115-116年職業安全衛生管理系統實務訓練",
+   "unit_name": "臺灣港務股份有限公司",
+   "detail": {
+    "amount": 493500,
+    "vendor": "祐大技術顧問股份有限公司"
+   }
+  },
+  {
+   "event_id": 533,
+   "at": "2026-11-19T18:36:53.659916+08:00",
+   "change_type": "unawardable",
+   "key": "3.13.50|Q5315D053",
+   "job_number": "Q5315D053",
+   "title": "大林廠 115年度辦公文具長約",
+   "unit_name": "台灣中油股份有限公司",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 535,
+   "at": "2026-11-19T18:36:58.469415+08:00",
+   "change_type": "unawardable",
+   "key": "3.5.49.1|EG16012P016",
+   "job_number": "EG16012P016",
+   "title": "熱泵系統維護",
+   "unit_name": "空軍航空技術學院",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 536,
+   "at": "2026-11-19T18:37:02.673155+08:00",
+   "change_type": "deadline_extended",
+   "key": "3.5.49|EX106003P001",
+   "job_number": "EX106003P001",
+   "title": "雷電偵測系統維護及資料獲得",
+   "unit_name": "國防部空軍司令部",
+   "detail": {
+    "from": null,
+    "to": "2026-11-25"
+   }
+  },
+  {
+   "event_id": 537,
+   "at": "2026-11-19T18:37:02.673155+08:00",
+   "change_type": "budget_changed",
+   "key": "3.5.49|EX106003P001",
+   "job_number": "EX106003P001",
+   "title": "雷電偵測系統維護及資料獲得",
+   "unit_name": "國防部空軍司令部",
+   "detail": {
+    "from": null,
+    "to": 1860000
+   }
+  },
+  {
+   "event_id": 538,
+   "at": "2026-11-19T18:37:03.904569+08:00",
+   "change_type": "awarded",
+   "key": "A.15.1.9|116010503",
+   "job_number": "116010503",
+   "title": "116年茂林觀光旅遊網平台擴充維運案",
+   "unit_name": "交通部觀光署茂林國家風景區管理處",
+   "detail": {
+    "amount": 2190000,
+    "vendor": "千享國際企業股份有限公司"
+   }
+  },
+  {
+   "event_id": 539,
+   "at": "2026-11-19T18:37:04.507264+08:00",
+   "change_type": "unawardable",
+   "key": "3.79.11.8|GEO1160023",
+   "job_number": "GEO1160023",
+   "title": "116年度公文檔案作業委外專業服務案",
+   "unit_name": "臺北市政府工務局大地工程處",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 540,
+   "at": "2026-11-19T18:37:05.113674+08:00",
+   "change_type": "unawardable",
+   "key": "3.9.26.3|Y11555C",
+   "job_number": "Y11555C",
+   "title": "新世代資料湖泊儲存系統維護案",
+   "unit_name": "國立成功大學醫學院附設醫院",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 541,
+   "at": "2026-11-19T18:37:05.720541+08:00",
+   "change_type": "awarded",
+   "key": "73502304|115-1150013741",
+   "job_number": "115-1150013741",
+   "title": "TQC生成式AI應用與技術評量題庫系統",
+   "unit_name": "嘉藥學校財團法人嘉南藥理大學",
+   "detail": {
+    "amount": 349000,
+    "vendor": "財團法人中華民國電腦技能基金會"
+   }
+  },
+  {
+   "event_id": 542,
+   "at": "2026-11-19T18:37:06.329625+08:00",
+   "change_type": "unawardable",
+   "key": "3.76.55.55|1150924L",
+   "job_number": "1150924L",
+   "title": "115年度花蓮縣吉安鄉防災廣播系統建置採購案",
+   "unit_name": "花蓮縣吉安鄉公所",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 545,
+   "at": "2026-11-20T01:29:52.428922+08:00",
+   "change_type": "new",
+   "key": "3.92.37|115052",
+   "job_number": "115052",
+   "title": "116年度收退費管理系統維護案",
+   "unit_name": "國立臺東大學",
+   "detail": {}
+  },
+  {
+   "event_id": 546,
+   "at": "2026-11-20T01:29:55.749578+08:00",
+   "change_type": "new",
+   "key": "3.80.15|1150092907",
+   "job_number": "1150092907",
+   "title": "116年度噪音管制資訊管理系統功能維護計畫",
+   "unit_name": "桃園市政府環境保護局",
+   "detail": {}
+  },
+  {
+   "event_id": 547,
+   "at": "2026-11-20T01:29:57.681498+08:00",
+   "change_type": "new",
+   "key": "3.92.31|115073",
+   "job_number": "115073",
+   "title": "115-116年臺灣藝術大學網路算圖農場系統維護案",
+   "unit_name": "國立臺灣藝術大學",
+   "detail": {}
+  },
+  {
+   "event_id": 548,
+   "at": "2026-11-20T01:30:02.636288+08:00",
+   "change_type": "corrected",
+   "key": "3.82.5.94|jd1151117",
+   "job_number": "jd1151117",
+   "title": "新北市115年度「AI創新，教育同行」教育事務年終檢討會計畫",
+   "unit_name": "新北市立正德國民中學",
+   "detail": {
+    "type": "公開取得報價單或企劃書更正公告"
+   }
+  },
+  {
+   "event_id": 549,
+   "at": "2026-11-20T01:30:03.300727+08:00",
+   "change_type": "deadline_extended",
+   "key": "3.10.5|115A11890007",
+   "job_number": "115A11890007",
+   "title": "臺北聯合大學圖書資源共享平台維護案",
+   "unit_name": "國立臺北科技大學",
+   "detail": {
+    "from": "2026-11-18",
+    "to": "2026-11-23"
+   }
+  },
+  {
+   "event_id": 552,
+   "at": "2026-11-20T01:30:09.616396+08:00",
+   "change_type": "awarded",
+   "key": "3.87.13|TCPB-S1151113",
+   "job_number": "TCPB-S1151113",
+   "title": "116年Trend Micro Apex One中控型防毒系統維護採購案",
+   "unit_name": "臺中市政府警察局",
+   "detail": {
+    "amount": 808000,
+    "vendor": "協志聯合科技股份有限公司"
+   }
+  },
+  {
+   "event_id": 554,
+   "at": "2026-11-20T18:17:00.505130+08:00",
+   "change_type": "new",
+   "key": "3.13.50.50.2|B20261118",
+   "job_number": "B20261118",
+   "title": "採工處電話交換機系統升級",
+   "unit_name": "台灣中油股份有限公司探採事業部採油工程處",
+   "detail": {}
+  },
+  {
+   "event_id": 555,
+   "at": "2026-11-20T18:17:01.075463+08:00",
+   "change_type": "new",
+   "key": "3.13.50.42|123456789",
+   "job_number": "123456789",
+   "title": "深澳中心卸油平台緊急遮斷閥採購4組(含安裝測試)",
+   "unit_name": "台灣中油股份有限公司液化石油氣事業部",
+   "detail": {}
+  },
+  {
+   "event_id": 556,
+   "at": "2026-11-20T18:17:05.223747+08:00",
+   "change_type": "new",
+   "key": "3.15.83|115-2-362",
+   "job_number": "115-2-362",
+   "title": "郵運管理系統連續報表紙（9.5”11”3Ｐ）",
+   "unit_name": "中華郵政股份有限公司",
+   "detail": {}
+  },
+  {
+   "event_id": 557,
+   "at": "2026-11-20T18:17:05.809833+08:00",
+   "change_type": "new",
+   "key": "3.98|1150800060",
+   "job_number": "1150800060",
+   "title": "116年度議事及相關資訊業務系統維護案",
+   "unit_name": "高雄市議會",
+   "detail": {}
+  },
+  {
+   "event_id": 558,
+   "at": "2026-11-20T18:17:06.385671+08:00",
+   "change_type": "new",
+   "key": "3.80.32|YB11607",
+   "job_number": "YB11607",
+   "title": "116年度超融合虛擬化平台維護案",
+   "unit_name": "桃園市政府消防局",
+   "detail": {}
+  },
+  {
+   "event_id": 559,
+   "at": "2026-11-20T18:17:12.245927+08:00",
+   "change_type": "new",
+   "key": "3.82.14.1|K115084",
+   "job_number": "K115084",
+   "title": "Oracle資料庫3年維護案",
+   "unit_name": "新北市立聯合醫院",
+   "detail": {}
+  },
+  {
+   "event_id": 560,
+   "at": "2026-11-20T18:17:12.817121+08:00",
+   "change_type": "new",
+   "key": "A.7.31.1|2026-210-BCPS",
+   "job_number": "2026-210-BCPS",
+   "title": "臺灣銀行倫敦分行資訊系統災害復原服務採購案",
+   "unit_name": "臺灣銀行股份有限公司",
+   "detail": {}
+  },
+  {
+   "event_id": 561,
+   "at": "2026-11-20T18:17:13.390684+08:00",
+   "change_type": "new",
+   "key": "3.79.59|116A023",
+   "job_number": "116A023",
+   "title": "受保護樹⽊計畫審議作業系統維護",
+   "unit_name": "臺北市政府文化局",
+   "detail": {}
+  },
+  {
+   "event_id": 562,
+   "at": "2026-11-20T18:17:17.532465+08:00",
+   "change_type": "new",
+   "key": "3.88|116-10",
+   "job_number": "116-10",
+   "title": "臺中市議會116年度議事堂議事實況影音直播及隨選平台服務採購案",
+   "unit_name": "臺中市議會",
+   "detail": {}
+  },
+  {
+   "event_id": 563,
+   "at": "2026-11-20T18:17:18.106669+08:00",
+   "change_type": "new",
+   "key": "3.76.55|1150203757",
+   "job_number": "1150203757",
+   "title": "116年度花蓮縣政府AI賦能培訓計畫",
+   "unit_name": "花蓮縣政府",
+   "detail": {}
+  },
+  {
+   "event_id": 564,
+   "at": "2026-11-20T18:17:22.834650+08:00",
+   "change_type": "new",
+   "key": "3.82.27.2|116lightsystem",
+   "job_number": "116lightsystem",
+   "title": "116年度新北市公園設施暨景觀燈維護管理系統維護服務",
+   "unit_name": "新北市政府綠美化環境景觀處",
+   "detail": {}
+  },
+  {
+   "event_id": 565,
+   "at": "2026-11-20T18:17:23.423455+08:00",
+   "change_type": "new",
+   "key": "4|1153300203",
+   "job_number": "1153300203",
+   "title": "臺灣省議會議員提案質詢彙編數位化",
+   "unit_name": "立法院",
+   "detail": {}
+  },
+  {
+   "event_id": 566,
+   "at": "2026-11-20T18:17:24.005782+08:00",
+   "change_type": "new",
+   "key": "3.76.44.58|116S0001",
+   "job_number": "116S0001",
+   "title": "芎林鄉公所116年網路社群平台經營行銷委託專業服務案",
+   "unit_name": "新竹縣芎林鄉公所",
+   "detail": {}
+  },
+  {
+   "event_id": 567,
+   "at": "2026-11-20T18:17:25.155659+08:00",
+   "change_type": "new",
+   "key": "A.19.4.9|115A008-L",
+   "job_number": "115A008-L",
+   "title": "116年度資訊安全管理系統（ISMS）維護案",
+   "unit_name": "農業部林業及自然保育署航測及遙測分署",
+   "detail": {}
+  },
+  {
+   "event_id": 568,
+   "at": "2026-11-20T18:17:29.872578+08:00",
+   "change_type": "new",
+   "key": "A.1.5|3-1151191",
+   "job_number": "3-1151191",
+   "title": "116年新住民培力發展資訊網站系統服務案",
+   "unit_name": "內政部移民署",
+   "detail": {}
+  },
+  {
+   "event_id": 569,
+   "at": "2026-11-20T18:17:35.163367+08:00",
+   "change_type": "new",
+   "key": "3.76.49.3.5|116-013",
+   "job_number": "116-013",
+   "title": "116年雲林縣空品APP及資訊整合維運計畫",
+   "unit_name": "雲林縣環境保護局",
+   "detail": {}
+  },
+  {
+   "event_id": 570,
+   "at": "2026-11-20T18:17:47.486677+08:00",
+   "change_type": "new",
+   "key": "3.79.5.35|115074",
+   "job_number": "115074",
+   "title": "臺北市115年度數位學習跨縣市增能參訪活動",
+   "unit_name": "臺北市立木柵高級工業職業學校",
+   "detail": {}
+  },
+  {
+   "event_id": 571,
+   "at": "2026-11-20T18:17:48.646805+08:00",
+   "change_type": "new",
+   "key": "3.79.21|11602",
+   "job_number": "11602",
+   "title": "116年全國共享版機關內部差勤電子表單系統維護、推動服務及功能擴充案",
+   "unit_name": "臺北市政府人事處",
+   "detail": {}
+  },
+  {
+   "event_id": 572,
+   "at": "2026-11-20T18:17:54.509095+08:00",
+   "change_type": "new",
+   "key": "3.80.11|1151118-2",
+   "job_number": "1151118-2",
+   "title": "桃園市政府社會局委託辦理116年度做好事公益平台資訊維護案",
+   "unit_name": "桃園市政府工務局",
+   "detail": {}
+  },
+  {
+   "event_id": 573,
+   "at": "2026-11-20T18:18:00.943056+08:00",
+   "change_type": "corrected",
+   "key": "3.76.54|115110530666",
+   "job_number": "115110530666",
+   "title": "舊站特區門禁、監控及保全系統建置及服務案",
+   "unit_name": "臺東縣政府",
+   "detail": {
+    "type": "經公開評選或公開徵求之限制性招標更正公告"
+   }
+  },
+  {
+   "event_id": 574,
+   "at": "2026-11-20T18:18:02.671815+08:00",
+   "change_type": "awarded",
+   "key": "3.76.44.97.98|1151120",
+   "job_number": "1151120",
+   "title": "新竹縣115學年度國民中小學輔具管理資訊系統服務案",
+   "unit_name": "新竹縣新豐鄉山崎國民小學",
+   "detail": {
+    "amount": 800000,
+    "vendor": "辛太科技有限公司"
+   }
+  },
+  {
+   "event_id": 575,
+   "at": "2026-11-20T18:18:07.384802+08:00",
+   "change_type": "awarded",
+   "key": "3.79.5.37|116W007",
+   "job_number": "116W007",
+   "title": "臺北市116學年度高級中等學校優先免試入學電腦作業處理系統",
+   "unit_name": "臺北市立松山高級商業家事職業學校",
+   "detail": {
+    "amount": 800000,
+    "vendor": "政高有限公司"
+   }
+  },
+  {
+   "event_id": 576,
+   "at": "2026-11-20T18:18:07.962394+08:00",
+   "change_type": "awarded",
+   "key": "3.87.7.8|zxes1151111",
+   "job_number": "zxes1151111",
+   "title": "生成式人工智慧（AI GPT）學校共用版",
+   "unit_name": "臺中市西區忠信國民小學",
+   "detail": {
+    "amount": 299000,
+    "vendor": "青杉人才有限公司"
+   }
+  },
+  {
+   "event_id": 579,
+   "at": "2026-11-20T18:18:12.693990+08:00",
+   "change_type": "unawardable",
+   "key": "3.15.28|115A110P011",
+   "job_number": "115A110P011",
+   "title": "115年AI應用先期計畫",
+   "unit_name": "交通部高速公路局",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 580,
+   "at": "2026-11-20T18:18:13.269118+08:00",
+   "change_type": "unawardable",
+   "key": "A.21.100.50|KM115Y18",
+   "job_number": "KM115Y18",
+   "title": "新版健康管理資訊系統",
+   "unit_name": "衛生福利部金門醫院",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 581,
+   "at": "2026-11-20T18:18:13.857625+08:00",
+   "change_type": "awarded",
+   "key": "3.97.33|115227",
+   "job_number": "115227",
+   "title": "116年高雄市開發行為涉及有形文化資產查詢系統維運案",
+   "unit_name": "高雄市政府文化局",
+   "detail": {
+    "amount": 1900000,
+    "vendor": "采義科技有限公司"
+   }
+  },
+  {
+   "event_id": 582,
+   "at": "2026-11-20T18:18:15.206394+08:00",
+   "change_type": "awarded",
+   "key": "3.5.11|ND16023P003",
+   "job_number": "ND16023P003",
+   "title": "116年ClinicalKey醫學資料庫等3項",
+   "unit_name": "國防部軍醫局",
+   "detail": {
+    "amount": 5000000,
+    "vendor": "碩睿資訊有限公司"
+   }
+  },
+  {
+   "event_id": 583,
+   "at": "2026-11-20T18:18:15.206394+08:00",
+   "change_type": "budget_changed",
+   "key": "3.5.11|ND16023P003",
+   "job_number": "ND16023P003",
+   "title": "116年ClinicalKey醫學資料庫等3項",
+   "unit_name": "國防部軍醫局",
+   "detail": {
+    "from": null,
+    "to": 5147500
+   }
+  },
+  {
+   "event_id": 584,
+   "at": "2026-11-20T18:18:20.533671+08:00",
+   "change_type": "unawardable",
+   "key": "3.32.82|LP16010",
+   "job_number": "LP16010",
+   "title": "生理參數監測平台1組",
+   "unit_name": "高雄榮民總醫院",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  },
+  {
+   "event_id": 585,
+   "at": "2026-11-20T18:18:24.676911+08:00",
+   "change_type": "awarded",
+   "key": "A.9.6M|J115047",
+   "job_number": "J115047",
+   "title": "InCites Package資料庫1年",
+   "unit_name": "國立陽明交通大學",
+   "detail": {
+    "amount": 4400000,
+    "vendor": "碩睿資訊有限公司"
+   }
+  },
+  {
+   "event_id": 587,
+   "at": "2026-11-20T18:18:26.447267+08:00",
+   "change_type": "unawardable",
+   "key": "3.11|S1151023",
+   "job_number": "S1151023",
+   "title": "法務部116年度法務語音辨識系統維護案",
+   "unit_name": "法務部",
+   "detail": {
+    "type": "無法決標公告"
+   }
+  }
+ ],
+ "candidates": [
+  {
+   "key": "3.13.50.50.2|B20261118",
+   "doc_id_hint": "pcc-B20261118",
+   "unit_id": "3.13.50.50.2",
+   "job_number": "B20261118",
+   "unit_name": "台灣中油股份有限公司探採事業部採油工程處",
+   "title": "採工處電話交換機系統升級",
+   "school": false,
+   "matched_keywords": [
+    "系統升級"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=PPW-1-70123764.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開徵求廠商提供參考資料公告"
+    }
+   ],
+   "evidence": {}
+  },
+  {
+   "key": "3.13.50.42|123456789",
+   "doc_id_hint": "pcc-123456789",
+   "unit_id": "3.13.50.42",
+   "job_number": "123456789",
+   "unit_name": "台灣中油股份有限公司液化石油氣事業部",
+   "title": "深澳中心卸油平台緊急遮斷閥採購4組(含安裝測試)",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=PPW-1-70123808.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開徵求廠商提供參考資料公告"
+    }
+   ],
+   "evidence": {}
+  },
+  {
+   "key": "3.15.83|115-2-362",
+   "doc_id_hint": "pcc-115-2-362",
+   "unit_id": "3.15.83",
+   "job_number": "115-2-362",
+   "unit_name": "中華郵政股份有限公司",
+   "title": "郵運管理系統連續報表紙（9.5”11”3Ｐ）",
+   "school": false,
+   "matched_keywords": [
+    "管理系統"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=PPW-1-70123853.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開徵求廠商提供參考資料公告"
+    }
+   ],
+   "evidence": {}
+  },
+  {
+   "key": "3.98|1150800060",
+   "doc_id_hint": "pcc-1150800060",
+   "unit_id": "3.98",
+   "job_number": "1150800060",
+   "unit_name": "高雄市議會",
+   "title": "116年度議事及相關資訊業務系統維護案",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開招標公告",
+   "stage": "tender",
+   "award_method": "最有利標",
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": 1497530,
+   "deadline": "2026-11-30",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "高雄市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzNzQxMjA",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "116年12月31日",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,497,530元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/30 17:30",
+    "method": "招標資料:招標方式=公開招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=116年12月31日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=高雄市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.80.32|YB11607",
+   "doc_id_hint": "pcc-YB11607",
+   "unit_id": "3.80.32",
+   "job_number": "YB11607",
+   "unit_name": "桃園市政府消防局",
+   "title": "116年度超融合虛擬化平台維護案",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開招標公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 3,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "最低標+10"
+   ],
+   "priority_tier": null,
+   "lowest_bid": true,
+   "budget": 1600000,
+   "deadline": "2026-11-30",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "桃園市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTI4NzY",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1月1日起至116年12月31日止。",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,600,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/30 17:00",
+    "method": "招標資料:招標方式=公開招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日起至116年12月31日止。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=桃園市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.82.14.1|K115084",
+   "doc_id_hint": "pcc-K115084",
+   "unit_id": "3.82.14.1",
+   "job_number": "K115084",
+   "unit_name": "新北市立聯合醫院",
+   "title": "Oracle資料庫3年維護案",
+   "school": false,
+   "matched_keywords": [
+    "資料庫"
+   ],
+   "status": "open",
+   "latest_type": "公開招標公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 3,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "最低標+10"
+   ],
+   "priority_tier": null,
+   "lowest_bid": true,
+   "budget": 1938000,
+   "deadline": "2026-12-02",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "新北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTQwNjY",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "自機關通知履約日起3年內(預計自116年1月9日至119年1月8日止)",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,938,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/02 17:00",
+    "method": "招標資料:招標方式=公開招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=自機關通知履約日起3年內(預計自116年1月9日至119年1月8日止)",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=新北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.7.31.1|2026-210-BCPS",
+   "doc_id_hint": "pcc-2026-210-BCPS",
+   "unit_id": "A.7.31.1",
+   "job_number": "2026-210-BCPS",
+   "unit_name": "臺灣銀行股份有限公司",
+   "title": "臺灣銀行倫敦分行資訊系統災害復原服務採購案",
+   "school": false,
+   "matched_keywords": [
+    "資訊系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 981822,
+   "deadline": "2026-11-24",
+   "category": "勞務類849-其他電腦服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "其他",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTIxMDA",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自契約生效日起三年",
+   "contract_template": "否",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=981,822元",
+    "category": "採購資料:標的分類=勞務類849-其他電腦服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=否",
+    "deadline": "領投開標:截止投標=115/11/24 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自契約生效日起三年",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=其他"
+   }
+  },
+  {
+   "key": "3.79.59|116A023",
+   "doc_id_hint": "pcc-116A023",
+   "unit_id": "3.79.59",
+   "job_number": "116A023",
+   "unit_name": "臺北市政府文化局",
+   "title": "受保護樹⽊計畫審議作業系統維護",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 309960,
+   "deadline": "2026-11-26",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTIyMzE",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自116年1月1日起至116年12月31日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=309,960元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/26 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自116年1月1日起至116年12月31日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.88|116-10",
+   "doc_id_hint": "pcc-116-10",
+   "unit_id": "3.88",
+   "job_number": "116-10",
+   "unit_name": "臺中市議會",
+   "title": "臺中市議會116年度議事堂議事實況影音直播及隨選平台服務採購案",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 480000,
+   "deadline": "2026-11-24",
+   "category": "勞務類871-廣告服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "臺中市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTIzNTM",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116/01/01-116/12/31",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=480,000元",
+    "category": "採購資料:標的分類=勞務類871-廣告服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/24 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116/01/01-116/12/31",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=臺中市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.76.55|1150203757",
+   "doc_id_hint": "pcc-1150203757",
+   "unit_id": "3.76.55",
+   "job_number": "1150203757",
+   "unit_name": "花蓮縣政府",
+   "title": "116年度花蓮縣政府AI賦能培訓計畫",
+   "school": false,
+   "matched_keywords": [
+    "AI"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 1490000,
+   "deadline": "2026-11-24",
+   "category": "勞務類92-教育服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "花蓮縣(原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTI2NjY",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年12月31日",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,490,000元",
+    "category": "採購資料:標的分類=勞務類92-教育服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/24 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年12月31日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=花蓮縣(原住民地區)"
+   }
+  },
+  {
+   "key": "3.82.27.2|116lightsystem",
+   "doc_id_hint": "pcc-116lightsystem",
+   "unit_id": "3.82.27.2",
+   "job_number": "116lightsystem",
+   "unit_name": "新北市政府綠美化環境景觀處",
+   "title": "116年度新北市公園設施暨景觀燈維護管理系統維護服務",
+   "school": false,
+   "matched_keywords": [
+    "系統維護",
+    "管理系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 870000,
+   "deadline": "2026-11-26",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "新北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTI2Nzc",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1月1日起至116年12月31日",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=870,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/26 17:30",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日起至116年12月31日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=新北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "4|1153300203",
+   "doc_id_hint": "pcc-1153300203",
+   "unit_id": "4",
+   "job_number": "1153300203",
+   "unit_name": "立法院",
+   "title": "臺灣省議會議員提案質詢彙編數位化",
+   "school": false,
+   "matched_keywords": [
+    "數位化"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 1200000,
+   "deadline": "2026-12-04",
+   "category": "勞務類879-其他商業服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "臺中市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTI4OTk",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "分2期(批)完成，決標日次日起30個日曆天內提送第1期數位化作業成果，於第1期數位化成果核定日次日起150個日曆天內交付本案數位化作業成果。",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,200,000元",
+    "category": "採購資料:標的分類=勞務類879-其他商業服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/04 09:30",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=分2期(批)完成，決標日次日起30個日曆天內提送第1期數位化作業成果，於第1期數位化成果核定日次日起150個日曆天內交付本案數位化作業成果。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=臺中市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.76.44.58|116S0001",
+   "doc_id_hint": "pcc-116S0001",
+   "unit_id": "3.76.44.58",
+   "job_number": "116S0001",
+   "unit_name": "新竹縣芎林鄉公所",
+   "title": "芎林鄉公所116年網路社群平台經營行銷委託專業服務案",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 600000,
+   "deadline": "2026-12-02",
+   "category": "勞務類911-政府行政服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "新竹縣(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTMxMDc",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1月1日(含當日)日起至116年12月31日(含當日)之期間履行採購標的之供應(如決標日已逾委託履約期限之始日者，始日以決標日起算)",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=600,000元",
+    "category": "採購資料:標的分類=勞務類911-政府行政服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/02 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日(含當日)日起至116年12月31日(含當日)之期間履行採購標的之供應(如決標日已逾委託履約期限之始日者，始日以決標日起算)",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=新竹縣(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.19.4.9|115A008-L",
+   "doc_id_hint": "pcc-115A008-L",
+   "unit_id": "A.19.4.9",
+   "job_number": "115A008-L",
+   "unit_name": "農業部林業及自然保育署航測及遙測分署",
+   "title": "116年度資訊安全管理系統（ISMS）維護案",
+   "school": false,
+   "matched_keywords": [
+    "管理系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 700000,
+   "deadline": "2026-11-30",
+   "category": "勞務類843-資料處理服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTM1MDc",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自116年1月1日起至116年12月31日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=700,000元",
+    "category": "採購資料:標的分類=勞務類843-資料處理服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/30 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自116年1月1日起至116年12月31日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.1.5|3-1151191",
+   "doc_id_hint": "pcc-3-1151191",
+   "unit_id": "A.1.5",
+   "job_number": "3-1151191",
+   "unit_name": "內政部移民署",
+   "title": "116年新住民培力發展資訊網站系統服務案",
+   "school": false,
+   "matched_keywords": [
+    "網站"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 870000,
+   "deadline": "2026-11-27",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTM1MjU",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "決標翌日起至117年1月5日止(系統維護期間為116年1月1日至116年12月31日)",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=870,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/27 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=決標翌日起至117年1月5日止(系統維護期間為116年1月1日至116年12月31日)",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.76.49.3.5|116-013",
+   "doc_id_hint": "pcc-116-013",
+   "unit_id": "3.76.49.3.5",
+   "job_number": "116-013",
+   "unit_name": "雲林縣環境保護局",
+   "title": "116年雲林縣空品APP及資訊整合維運計畫",
+   "school": false,
+   "matched_keywords": [
+    "APP"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 2000000,
+   "deadline": "2026-12-01",
+   "category": "勞務類94-污水及垃圾處理、公共衛生及其他環保服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "雲林縣(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTIyNDA",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "機關通知日起一年止",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=2,000,000元",
+    "category": "採購資料:標的分類=勞務類94-污水及垃圾處理、公共衛生及其他環保服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/01 08:30",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=機關通知日起一年止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=雲林縣(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.79.5.35|115074",
+   "doc_id_hint": "pcc-115074",
+   "unit_id": "3.79.5.35",
+   "job_number": "115074",
+   "unit_name": "臺北市立木柵高級工業職業學校",
+   "title": "臺北市115年度數位學習跨縣市增能參訪活動",
+   "school": false,
+   "matched_keywords": [
+    "數位學習"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 1800000,
+   "deadline": "2026-11-30",
+   "category": "勞務類74-支援及輔助運輸服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "其他",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTMyMTI",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [
+    "※本案以公告之預算金額為固定費用給付，「廠商報價超過公告之固定費用 」，依投標須知第57點判定為不合格標"
+   ],
+   "perf_period": "決標日起至115年12月17日",
+   "contract_template": "否",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,800,000元",
+    "category": "採購資料:標的分類=勞務類74-支援及輔助運輸服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=否",
+    "deadline": "領投開標:截止投標=115/11/30 17:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "payment_notes": "其他:附加說明 等文字欄位",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=決標日起至115年12月17日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=其他"
+   }
+  },
+  {
+   "key": "3.79.21|11602",
+   "doc_id_hint": "pcc-11602",
+   "unit_id": "3.79.21",
+   "job_number": "11602",
+   "unit_name": "臺北市政府人事處",
+   "title": "116年全國共享版機關內部差勤電子表單系統維護、推動服務及功能擴充案",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 1834800,
+   "deadline": "2026-12-03",
+   "category": "勞務類842-軟體執行服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTMyMjg",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [
+    "四、本案採固定價格（費用）給付，有關服務建議書製作方式請詳閱本案評選須知規定，其他事項詳招標文件"
+   ],
+   "perf_period": "116年1月1日起至116年12月31日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,834,800元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/03 17:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "payment_notes": "其他:附加說明 等文字欄位",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日起至116年12月31日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.80.11|1151118-2",
+   "doc_id_hint": "pcc-1151118-2",
+   "unit_id": "3.80.11",
+   "job_number": "1151118-2",
+   "unit_name": "桃園市政府工務局",
+   "title": "桃園市政府社會局委託辦理116年度做好事公益平台資訊維護案",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 1817000,
+   "deadline": "2026-12-01",
+   "category": "勞務類843-資料處理服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "桃園市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTMzNjg",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1月1日至116年12月31日，倘本案未於115年12月31日前決標，則期限自決標次日起至116年12月31日止。",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T18:16:58.692884+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,817,000元",
+    "category": "採購資料:標的分類=勞務類843-資料處理服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/01 09:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日至116年12月31日，倘本案未於115年12月31日前決標，則期限自決標次日起至116年12月31日止。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=桃園市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.92.37|115052",
+   "doc_id_hint": "pcc-115052",
+   "unit_id": "3.92.37",
+   "job_number": "115052",
+   "unit_name": "國立臺東大學",
+   "title": "116年度收退費管理系統維護案",
+   "school": true,
+   "matched_keywords": [
+    "系統維護",
+    "管理系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 250000,
+   "deadline": "2026-11-26",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "臺東縣台東市(原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODU4MzQ",
+   "bid_bond": {
+    "amount": 7500,
+    "amount_text": "7500",
+    "required": true,
+    "text": "是，且提供廠商線上繳納押標金"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "自116年1月1日起1年內完成履約",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-20T01:29:52.348465+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=是，且提供廠商線上繳納押標金；領投開標:是否須繳納押標金:押標金額度=7500",
+    "budget": "採購資料:預算金額=250,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/26 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=自116年1月1日起1年內完成履約",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=臺東縣台東市(原住民地區)"
+   }
+  },
+  {
+   "key": "3.80.15|1150092907",
+   "doc_id_hint": "pcc-1150092907",
+   "unit_id": "3.80.15",
+   "job_number": "1150092907",
+   "unit_name": "桃園市政府環境保護局",
+   "title": "116年度噪音管制資訊管理系統功能維護計畫",
+   "school": false,
+   "matched_keywords": [
+    "系統功能",
+    "管理系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 420000,
+   "deadline": "2026-11-27",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "桃園市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTMwNTQ",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1月1日起至116年12月31日止，惟若決標日逾116年1月1日，則以決標日起至116年12月31日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T01:29:52.348465+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=420,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/27 09:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日起至116年12月31日止，惟若決標日逾116年1月1日，則以決標日起至116年12月31日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=桃園市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.92.31|115073",
+   "doc_id_hint": "pcc-115073",
+   "unit_id": "3.92.31",
+   "job_number": "115073",
+   "unit_name": "國立臺灣藝術大學",
+   "title": "115-116年臺灣藝術大學網路算圖農場系統維護案",
+   "school": true,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 650000,
+   "deadline": "2026-11-30",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "新北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTM5NDM",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自115年12月27日至116年12月26日止完成契約規定之事項。",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-20T01:29:52.348465+08:00",
+   "notice_history": [
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=650,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/30 09:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自115年12月27日至116年12月26日止完成契約規定之事項。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=新北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.13.31|A0771500010",
+   "doc_id_hint": "pcc-A0771500010",
+   "unit_id": "3.13.31",
+   "job_number": "A0771500010",
+   "unit_name": "台灣電力股份有限公司",
+   "title": "DREAMS功能性擴充（含單向傳輸、資安架構強化及系統平台升級）",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261119&fn=PPW-1-70123222.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開徵求廠商提供參考資料公告"
+    }
+   ],
+   "evidence": {}
+  },
+  {
+   "key": "3.71.2.63|N115210630164",
+   "doc_id_hint": "pcc-N115210630164",
+   "unit_id": "3.71.2.63",
+   "job_number": "N115210630164",
+   "unit_name": "金門縣採購招標所",
+   "title": "116年無線電系統維護採購",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開招標公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 3,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "最低標+10"
+   ],
+   "priority_tier": null,
+   "lowest_bid": true,
+   "budget": 1100000,
+   "deadline": "2026-12-02",
+   "category": "勞務類754-電信相關服務",
+   "method": "公開招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "金門縣(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTAyOTk",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自決標日起至116年12月31日止，餘(詳如需求書)。",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,100,000元",
+    "category": "採購資料:標的分類=勞務類754-電信相關服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/02 17:30",
+    "method": "招標資料:招標方式=公開招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自決標日起至116年12月31日止，餘(詳如需求書)。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=金門縣(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.25.100.3|115-1-26",
+   "doc_id_hint": "pcc-115-1-26",
+   "unit_id": "A.25.100.3",
+   "job_number": "115-1-26",
+   "unit_name": "國立臺灣文學館",
+   "title": "典藏庫房櫃架系統建置暨空間配置優化採購案",
+   "school": false,
+   "matched_keywords": [
+    "系統建置"
+   ],
+   "status": "open",
+   "latest_type": "公開招標公告",
+   "stage": "tender",
+   "award_method": "最有利標",
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": 2000000,
+   "deadline": "2026-12-02",
+   "category": "財物類389-其他製造商品",
+   "method": "公開招標",
+   "procurement_type": "買受,定製",
+   "publish_date": "2026-11-19",
+   "location": "臺南市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTEzMjg",
+   "bid_bond": {
+    "amount": 60000,
+    "amount_text": "60000",
+    "required": true,
+    "text": "是，且提供廠商線上繳納押標金"
+   },
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": "廠商應於116年4月30日前將採購標的送達國立臺灣文學館B2文學庫房，完成安裝、點交與測試運作正常。",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=是，且提供廠商線上繳納押標金；領投開標:是否須繳納押標金:押標金額度=60000",
+    "budget": "採購資料:預算金額=2,000,000元",
+    "category": "採購資料:標的分類=財物類389-其他製造商品",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/02 17:00",
+    "method": "招標資料:招標方式=公開招標",
+    "perf_period": "其他:履約期限=廠商應於116年4月30日前將採購標的送達國立臺灣文學館B2文學庫房，完成安裝、點交與測試運作正常。",
+    "procurement_type": "採購資料:財物採購性質=買受,定製",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺南市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.82.25|1151118A",
+   "doc_id_hint": "pcc-1151118A",
+   "unit_id": "3.82.25",
+   "job_number": "1151118A",
+   "unit_name": "新北市政府水利局",
+   "title": "116年度河川公地許可系統及圖文資料庫新增維護",
+   "school": false,
+   "matched_keywords": [
+    "資料庫"
+   ],
+   "status": "open",
+   "latest_type": "公開招標公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 3,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "最低標+10"
+   ],
+   "priority_tier": null,
+   "lowest_bid": true,
+   "budget": 349250,
+   "deadline": "2026-11-23",
+   "category": "勞務類843-資料處理服務",
+   "method": "公開招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "新北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTIwMDU",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "自決標次日起至116年11月10日（最後完成日）止，詳如本採購案契約書（樣稿）第七條。",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=349,250元",
+    "category": "採購資料:標的分類=勞務類843-資料處理服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/23 17:00",
+    "method": "招標資料:招標方式=公開招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=自決標次日起至116年11月10日（最後完成日）止，詳如本採購案契約書（樣稿）第七條。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=新北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.13.16|11580021980",
+   "doc_id_hint": "pcc-11580021980",
+   "unit_id": "3.13.16",
+   "job_number": "11580021980",
+   "unit_name": "經濟部智慧財產局",
+   "title": "116年新辦公室自動化系統維護服務案",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 480000,
+   "deadline": "2026-11-24",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTA0MTU",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "自決標次日起12個月",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=480,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/24 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=自決標次日起12個月",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.13.50|MEA1500020",
+   "doc_id_hint": "pcc-MEA1500020",
+   "unit_id": "3.13.50",
+   "job_number": "MEA1500020",
+   "unit_name": "台灣中油股份有限公司",
+   "title": "煉製事業部本部ISO 50001:2018能源管理系統輔導建置及驗證工作",
+   "school": false,
+   "matched_keywords": [
+    "管理系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 1483650,
+   "deadline": "2026-12-01",
+   "category": "勞務類865-管理顧問服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "其他",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTEyNjU",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "自監造單位通知開工日起1034日曆天，各階段工期不可相互挪用，詳工作說明書。",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,483,650元",
+    "category": "採購資料:標的分類=勞務類865-管理顧問服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/01 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=自監造單位通知開工日起1034日曆天，各階段工期不可相互挪用，詳工作說明書。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=其他"
+   }
+  },
+  {
+   "key": "A.21.2|116TFDA-Q-016",
+   "doc_id_hint": "pcc-116TFDA-Q-016",
+   "unit_id": "A.21.2",
+   "job_number": "116TFDA-Q-016",
+   "unit_name": "衛生福利部食品藥物管理署",
+   "title": "116年度「精進我國保健營養食品業品質管理系統計畫」",
+   "school": false,
+   "matched_keywords": [
+    "管理系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 900000,
+   "deadline": "2026-11-26",
+   "category": "勞務類911-政府行政服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTEyNzc",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "廠商應自決標日起（如於115年決標，則履約期限自116年1月1日起）至116年12月31日以前完成履行採購標的之供應",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=900,000元",
+    "category": "採購資料:標的分類=勞務類911-政府行政服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/26 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=廠商應自決標日起（如於115年決標，則履約期限自116年1月1日起）至116年12月31日以前完成履行採購標的之供應",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.7.31.1|133-115-B260",
+   "doc_id_hint": "pcc-133-115-B260",
+   "unit_id": "A.7.31.1",
+   "job_number": "133-115-B260",
+   "unit_name": "臺灣銀行股份有限公司",
+   "title": "「臺銀行動+」APP資安檢測服務",
+   "school": false,
+   "matched_keywords": [
+    "APP"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 525000,
+   "deadline": "2026-11-25",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTEzNzI",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "本行通知履約發文日之次日起1個月內",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=525,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/25 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=本行通知履約發文日之次日起1個月內",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "91602332|115-064-C1",
+   "doc_id_hint": "pcc-115-064-C1",
+   "unit_id": "91602332",
+   "job_number": "115-064-C1",
+   "unit_name": "財團法人職業災害預防及重建中心",
+   "title": "職災勞工資源整合平台建置案",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 697000,
+   "deadline": "2026-11-30",
+   "category": "勞務類97-其他服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "新北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTE2OTI",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自決標日次日起至 5 個月內止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=697,000元",
+    "category": "採購資料:標的分類=勞務類97-其他服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/30 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自決標日次日起至 5 個月內止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=新北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.71.2.63|N115210630165",
+   "doc_id_hint": "pcc-N115210630165",
+   "unit_id": "3.71.2.63",
+   "job_number": "N115210630165",
+   "unit_name": "金門縣採購招標所",
+   "title": "116年局本部網路電話系統及各分隊網路電話系統暨派遣電話專用錄音系統維護",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 495000,
+   "deadline": "2026-11-30",
+   "category": "勞務類754-電信相關服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "金門縣(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTE3NzE",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1月1日至116年12月31日止，餘(詳如規範)。",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=495,000元",
+    "category": "採購資料:標的分類=勞務類754-電信相關服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/30 17:30",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日至116年12月31日止，餘(詳如規範)。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=金門縣(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.95.100.3|21160108",
+   "doc_id_hint": "pcc-21160108",
+   "unit_id": "3.95.100.3",
+   "job_number": "21160108",
+   "unit_name": "臺南市政府智慧發展中心",
+   "title": "116年度臺南城市儀表板網站維護",
+   "school": false,
+   "matched_keywords": [
+    "網站"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 400000,
+   "deadline": "2026-11-24",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺南市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTE4ODc",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1月1日至116年12月31日",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=400,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/24 10:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日至116年12月31日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺南市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.87.43|116C-04",
+   "doc_id_hint": "pcc-116C-04",
+   "unit_id": "3.87.43",
+   "job_number": "116C-04",
+   "unit_name": "臺中市政府數位發展局",
+   "title": "116年度差勤及費用請領表單系統維護案",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 1833000,
+   "deadline": "2026-11-30",
+   "category": "勞務類849-其他電腦服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺中市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODczOTc",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自機關通知日起至116年12月31日止。",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,833,000元",
+    "category": "採購資料:標的分類=勞務類849-其他電腦服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/30 17:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自機關通知日起至116年12月31日止。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺中市(非原住民地區)"
+   }
+  },
+  {
+   "key": "98229985A|11602004",
+   "doc_id_hint": "pcc-11602004",
+   "unit_id": "98229985A",
+   "job_number": "11602004",
+   "unit_name": "財團法人桃園市文化基金會",
+   "title": "土地公文化館「桃園神明坐騎特展」委託專業執行服務案",
+   "school": false,
+   "matched_keywords": [
+    "公文"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 2100000,
+   "deadline": "2026-12-01",
+   "category": "勞務類96-娛樂,文化,體育服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "桃園市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTAzMjI",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自決標次日起至116年11月8日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=2,100,000元",
+    "category": "採購資料:標的分類=勞務類96-娛樂,文化,體育服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/01 17:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自決標次日起至116年11月8日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=桃園市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.79.21|11601",
+   "doc_id_hint": "pcc-11601",
+   "unit_id": "3.79.21",
+   "job_number": "11601",
+   "unit_name": "臺北市政府人事處",
+   "title": "116年人事服務網系統維護暨功能優化開發案",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 2324240,
+   "deadline": "2026-11-30",
+   "category": "勞務類842-軟體執行服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTA1MDM",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [
+    "四、本案採固定價格（費用）給付，有關服務建議書製作方式請詳閱本案評選須知規定，其他事項詳招標文件"
+   ],
+   "perf_period": "116年1月1日起至116年12月31日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=2,324,240元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/30 17:30",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "payment_notes": "其他:附加說明 等文字欄位",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日起至116年12月31日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.5.5.2|HP16013P013",
+   "doc_id_hint": "pcc-HP16013P013",
+   "unit_id": "A.5.5.2",
+   "job_number": "HP16013P013",
+   "unit_name": "國防部電訊發展室",
+   "title": "會議系統維護",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 20,
+   "priority_labels": [
+    "公開評選+10",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": true,
+   "budget": 1921000,
+   "deadline": "2026-11-25",
+   "category": "勞務類842-軟體執行服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "新北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTEwMzI",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1月1日至116年12月31日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,921,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/25 09:20",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日至116年12月31日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=新北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.13.32.45|5461500168",
+   "doc_id_hint": "pcc-5461500168",
+   "unit_id": "3.13.32.45",
+   "job_number": "5461500168",
+   "unit_name": "台灣電力股份有限公司綜合研究所",
+   "title": "鹽害風險資訊系統開發與建置1式",
+   "school": false,
+   "matched_keywords": [
+    "系統開發",
+    "資訊系統"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 1900500,
+   "deadline": "2026-12-09",
+   "category": "勞務類844-資料庫服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "新北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTEwNTQ",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "配合本公司選定之時間(決標後兩周內)召開啟動會議，本專案之履約期限為自啟動會議起7個月內(含安裝及訓練課程時間在內)",
+   "contract_template": "否",
+   "no_bonds": false,
+   "first_seen": "2026-11-19T18:35:46.797501+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,900,500元",
+    "category": "採購資料:標的分類=勞務類844-資料庫服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=否",
+    "deadline": "領投開標:截止投標=115/12/09 17:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=配合本公司選定之時間(決標後兩周內)召開啟動會議，本專案之履約期限為自啟動會議起7個月內(含安裝及訓練課程時間在內)",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=新北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.79.3.1|1160122901",
+   "doc_id_hint": "pcc-1160122901",
+   "unit_id": "3.79.3.1",
+   "job_number": "1160122901",
+   "unit_name": "臺北市稅捐稽徵處",
+   "title": "116年資料庫維護案",
+   "school": false,
+   "matched_keywords": [
+    "資料庫"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 458760,
+   "deadline": "2026-11-24",
+   "category": "勞務類844-資料庫服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODY3MDY",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1月1日至同年12月31日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T01:24:33.646757+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=458,760元",
+    "category": "採購資料:標的分類=勞務類844-資料庫服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/24 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日至同年12月31日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.9.6M|F115116",
+   "doc_id_hint": "pcc-F115116",
+   "unit_id": "A.9.6M",
+   "job_number": "F115116",
+   "unit_name": "國立陽明交通大學",
+   "title": "教師知識管理AI運算平台建置",
+   "school": true,
+   "matched_keywords": [
+    "AI",
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 700000,
+   "deadline": "2026-11-25",
+   "category": "財物類452-計算機及其零件與配件",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "買受,定製",
+   "publish_date": "2026-11-19",
+   "location": "新竹市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODkzMjg",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": "第1期應於 115 年 12 月 10 日前完成；第2期應於 116 年 2月28日前完成。",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-19T01:24:33.646757+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=700,000元",
+    "category": "採購資料:標的分類=財物類452-計算機及其零件與配件",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/25 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_period": "其他:履約期限=第1期應於 115 年 12 月 10 日前完成；第2期應於 116 年 2月28日前完成。",
+    "procurement_type": "採購資料:財物採購性質=買受,定製",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=新竹市(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.15.2|115209A",
+   "doc_id_hint": "pcc-115209A",
+   "unit_id": "A.15.2",
+   "job_number": "115209A",
+   "unit_name": "交通部中央氣象署",
+   "title": "116-117年地震中心傳真伺服系統維護案",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 316000,
+   "deadline": "2026-11-25",
+   "category": "勞務類845-辦公室機器及設備(包括電腦)之維修服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODk1NDg",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "詳如附加說明第8點。",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T01:24:33.646757+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=316,000元",
+    "category": "採購資料:標的分類=勞務類845-辦公室機器及設備(包括電腦)之維修服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/25 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=詳如附加說明第8點。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.79.14|P11601",
+   "doc_id_hint": "pcc-P11601",
+   "unit_id": "3.79.14",
+   "job_number": "P11601",
+   "unit_name": "臺北市政府衛生局",
+   "title": "116年度衛生稽查科公文及文書資料處理等業務」勞務採購案",
+   "school": false,
+   "matched_keywords": [
+    "公文"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 1197594,
+   "deadline": "2026-11-25",
+   "category": "勞務類872-人力派遣服務(勞動派遣服務)",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTAzNjk",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "機關通知日至116年12月31日",
+   "contract_template": "否",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T01:24:33.646757+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,197,594元",
+    "category": "採購資料:標的分類=勞務類872-人力派遣服務(勞動派遣服務)",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=否",
+    "deadline": "領投開標:截止投標=115/11/25 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=機關通知日至116年12月31日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "4|1151000393",
+   "doc_id_hint": "pcc-1151000393",
+   "unit_id": "4",
+   "job_number": "1151000393",
+   "unit_name": "立法院",
+   "title": "立法院「116年度議政博物館全球資訊網與數位典藏及文物管理系統維護案」",
+   "school": false,
+   "matched_keywords": [
+    "系統維護",
+    "管理系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 905000,
+   "deadline": "2026-11-24",
+   "category": "勞務類843-資料處理服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "其他",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTA0NzE",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "本契約期間自114年1月1日或契約生效日(○年○月○日)起（日期以後者為主）至116年12月31日止。",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-19T01:24:33.646757+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=905,000元",
+    "category": "採購資料:標的分類=勞務類843-資料處理服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/24 09:30",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=本契約期間自114年1月1日或契約生效日(○年○月○日)起（日期以後者為主）至116年12月31日止。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=其他"
+   }
+  },
+  {
+   "key": "A.21|M1502497",
+   "doc_id_hint": "pcc-M1502497",
+   "unit_id": "A.21",
+   "job_number": "M1502497",
+   "unit_name": "衛生福利部",
+   "title": "1925安心專線人工智慧通話分析與支持功能初探",
+   "school": false,
+   "matched_keywords": [
+    "人工智慧"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 1450000,
+   "deadline": "2026-11-24",
+   "category": "勞務類911-政府行政服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTA3NjM",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "廠商應自決標日起至116年12月31日以前完成履行採購標的之供應。",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T01:24:33.646757+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,450,000元",
+    "category": "採購資料:標的分類=勞務類911-政府行政服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/24 09:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=廠商應自決標日起至116年12月31日以前完成履行採購標的之供應。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.10.3|1151113159",
+   "doc_id_hint": "pcc-1151113159",
+   "unit_id": "3.10.3",
+   "job_number": "1151113159",
+   "unit_name": "國立屏東科技大學",
+   "title": "116年度校園資訊系統維運案",
+   "school": true,
+   "matched_keywords": [
+    "系統維運",
+    "資訊系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 818900,
+   "deadline": "2026-12-01",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "屏東縣(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTA5NjQ",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自116年1月1日-116年12月31日(詳如本校招標規格書)",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T01:24:33.646757+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=818,900元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/01 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自116年1月1日-116年12月31日(詳如本校招標規格書)",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=屏東縣(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.19.13|115035-AR",
+   "doc_id_hint": "pcc-115035-AR",
+   "unit_id": "A.19.13",
+   "job_number": "115035-AR",
+   "unit_name": "農業部獸醫研究所",
+   "title": "實驗動物產銷管理系統改版－核心功能建置",
+   "school": false,
+   "matched_keywords": [
+    "管理系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 1000000,
+   "deadline": "2026-11-26",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "苗栗縣(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTEyMjQ",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "決標日起至116年6月30日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-19T01:24:33.646757+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,000,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/26 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=決標日起至116年6月30日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=苗栗縣(非原住民地區)"
+   }
+  },
+  {
+   "key": "4|1151300098",
+   "doc_id_hint": "pcc-1151300098",
+   "unit_id": "4",
+   "job_number": "1151300098",
+   "unit_name": "立法院",
+   "title": "立法院「116年度立法資料庫資料掃描建檔作業案」",
+   "school": false,
+   "matched_keywords": [
+    "資料庫"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 281167,
+   "deadline": "2026-12-01",
+   "category": "勞務類844-資料庫服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTE1NzM",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "自 116年1月1日起至116年12月31日 之期間內每季1期，分4期完成履行採購標的之供應",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-19T01:24:33.646757+08:00",
+   "notice_history": [
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=281,167元",
+    "category": "採購資料:標的分類=勞務類844-資料庫服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/01 09:30",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=自 116年1月1日起至116年12月31日 之期間內每季1期，分4期完成履行採購標的之供應",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.19.2|K11511117-1",
+   "doc_id_hint": "pcc-K11511117-1",
+   "unit_id": "A.19.2",
+   "job_number": "K11511117-1",
+   "unit_name": "農業部漁業署",
+   "title": "漁業署資料中台暨AI應用整體規劃案",
+   "school": false,
+   "matched_keywords": [
+    "AI"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261118&fn=PPW-1-70123411.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-18T18:28:29.767060+08:00",
+   "notice_history": [
+    {
+     "date": "20261118",
+     "type": "公開徵求廠商提供參考資料公告"
+    }
+   ],
+   "evidence": {}
+  },
+  {
+   "key": "A.5.24|NP15047P",
+   "doc_id_hint": "pcc-NP15047P",
+   "unit_id": "A.5.24",
+   "job_number": "NP15047P",
+   "unit_name": "國防醫學大學",
+   "title": "智慧病房戰情監控平台",
+   "school": true,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261118&fn=PPW-1-70123418.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-18T18:28:29.767060+08:00",
+   "notice_history": [
+    {
+     "date": "20261118",
+     "type": "公開徵求廠商提供參考資料公告"
+    }
+   ],
+   "evidence": {}
+  },
+  {
+   "key": "3.13.31.48|1151117",
+   "doc_id_hint": "pcc-1151117",
+   "unit_id": "3.13.31.48",
+   "job_number": "1151117",
+   "unit_name": "台灣電力股份有限公司大林發電廠",
+   "title": "116年資訊系統維護",
+   "school": false,
+   "matched_keywords": [
+    "系統維護",
+    "資訊系統"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261118&fn=PPW-1-70123423.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-18T18:28:29.767060+08:00",
+   "notice_history": [
+    {
+     "date": "20261118",
+     "type": "公開徵求廠商提供參考資料公告"
+    }
+   ],
+   "evidence": {}
+  },
+  {
+   "key": "3.13.50.47|UCB158C012",
+   "doc_id_hint": "pcc-UCB158C012",
+   "unit_id": "3.13.50.47",
+   "job_number": "UCB158C012",
+   "unit_name": "台灣中油股份有限公司石化事業部",
+   "title": "廢棄物處理工場煙囪排放監測系統維護工作",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261118&fn=PPW-1-70123428.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-18T18:28:29.767060+08:00",
+   "notice_history": [
+    {
+     "date": "20261118",
+     "type": "公開徵求廠商提供參考資料公告"
+    }
+   ],
+   "evidence": {}
+  },
+  {
+   "key": "3.82.32|1152278365",
+   "doc_id_hint": "pcc-1152278365",
+   "unit_id": "3.82.32",
+   "job_number": "1152278365",
+   "unit_name": "新北市政府消防局",
+   "title": "AI 影像辨識CCTV採購案",
+   "school": false,
+   "matched_keywords": [
+    "AI"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261118&fn=PPW-1-70123554.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-18T18:28:29.767060+08:00",
+   "notice_history": [
+    {
+     "date": "20261118",
+     "type": "公開徵求廠商提供參考資料公告"
+    }
+   ],
+   "evidence": {}
+  },
+  {
+   "key": "3.71.1.37|115111701",
+   "doc_id_hint": "pcc-115111701",
+   "unit_id": "3.71.1.37",
+   "job_number": "115111701",
+   "unit_name": "金門縣衛生局",
+   "title": "金門縣衛生局補助暨發放作業整合系統功能增修及維護案",
+   "school": false,
+   "matched_keywords": [
+    "系統功能"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261118&fn=PPW-1-70123580.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [
+    "1.本案功能增修預計採核實支付，依實作項目付款"
+   ],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-18T18:28:29.767060+08:00",
+   "notice_history": [
+    {
+     "date": "20261118",
+     "type": "公開徵求廠商提供參考資料公告"
+    }
+   ],
+   "evidence": {
+    "payment_notes": "其他:附加說明 等文字欄位"
+   }
+  },
+  {
+   "key": "3.80.12|1151118F-1",
+   "doc_id_hint": "pcc-1151118F-1",
+   "unit_id": "3.80.12",
+   "job_number": "1151118F-1",
+   "unit_name": "桃園市政府社會局",
+   "title": "桃園市政府社會局委託辦理116年度桃園市志願服務整合資訊平台功能擴充維護案",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 1300000,
+   "deadline": "2026-11-23",
+   "category": "勞務類842-軟體執行服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-18",
+   "location": "桃園市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODk0MDU",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自116年1月1日起至116年12月31日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-18T18:28:29.767060+08:00",
+   "notice_history": [
+    {
+     "date": "20261118",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,300,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/23 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自116年1月1日起至116年12月31日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/18",
+    "remote_hint": "其他:履約地點=桃園市(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.21.2|MOHW116-FDA-D-113-000431",
+   "doc_id_hint": "pcc-MOHW116-FDA-D-113-000431",
+   "unit_id": "A.21.2",
+   "job_number": "MOHW116-FDA-D-113-000431",
+   "unit_name": "衛生福利部食品藥物管理署",
+   "title": "116年度「西藥專利連結登載系統維運及擴充案」",
+   "school": false,
+   "matched_keywords": [
+    "系統維運"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 1940000,
+   "deadline": "2026-12-01",
+   "category": "勞務類842-軟體執行服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-18",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODg0Nzc",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "廠商應自決標日起（如於115年決標，則履約期限自116年1月1日起）至116年12月31日以前完成履行採購標的之供應",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-18T18:28:29.767060+08:00",
+   "notice_history": [
+    {
+     "date": "20261118",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,940,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/01 17:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=廠商應自決標日起（如於115年決標，則履約期限自116年1月1日起）至116年12月31日以前完成履行採購標的之供應",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/18",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.76.54|115940430670",
+   "doc_id_hint": "pcc-115940430670",
+   "unit_id": "3.76.54",
+   "job_number": "115940430670",
+   "unit_name": "臺東縣政府",
+   "title": "116年度臺東縣政府網路社群平台經營行銷勞務採購案",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 1700000,
+   "deadline": "2026-12-02",
+   "category": "勞務類96-娛樂,文化,體育服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-18",
+   "location": "臺東縣台東市(原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODkyODA",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "自決標次日起至116年12月15日止",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-18T18:28:29.767060+08:00",
+   "notice_history": [
+    {
+     "date": "20261118",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,700,000元",
+    "category": "採購資料:標的分類=勞務類96-娛樂,文化,體育服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/02 17:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=自決標次日起至116年12月15日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/18",
+    "remote_hint": "其他:履約地點=臺東縣台東市(原住民地區)"
+   }
+  },
+  {
+   "key": "3.82.5.94|jd1151117",
+   "doc_id_hint": "pcc-jd1151117",
+   "unit_id": "3.82.5.94",
+   "job_number": "jd1151117",
+   "unit_name": "新北市立正德國民中學",
+   "title": "新北市115年度「AI創新，教育同行」教育事務年終檢討會計畫",
+   "school": true,
+   "matched_keywords": [
+    "AI"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書更正公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 210000,
+   "deadline": "2026-11-26",
+   "category": "勞務類642-提供食物服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "新北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODk2NjI",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "115年12月7日",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-18T01:44:05.003913+08:00",
+   "notice_history": [
+    {
+     "date": "20261118",
+     "type": "公開取得報價單或企劃書公告"
+    },
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書更正公告"
+    },
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書更正公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=210,000元",
+    "category": "採購資料:標的分類=勞務類642-提供食物服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/26 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=115年12月7日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=新北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.76.54|115110530666",
+   "doc_id_hint": "pcc-115110530666",
+   "unit_id": "3.76.54",
+   "job_number": "115110530666",
+   "unit_name": "臺東縣政府",
+   "title": "舊站特區門禁、監控及保全系統建置及服務案",
+   "school": false,
+   "matched_keywords": [
+    "系統建置"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標更正公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 2500000,
+   "deadline": "2026-11-27",
+   "category": "勞務類873-調查及保安服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "臺東縣台東市(原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODc2ODI",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "應於簽約日起至116年12月31日以前完成履行採購標的之供應。",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-17T18:56:46.487519+08:00",
+   "notice_history": [
+    {
+     "date": "20261117",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    },
+    {
+     "date": "20261120",
+     "type": "經公開評選或公開徵求之限制性招標更正公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=2,500,000元",
+    "category": "採購資料:標的分類=勞務類873-調查及保安服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/27 17:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=應於簽約日起至116年12月31日以前完成履行採購標的之供應。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=臺東縣台東市(原住民地區)"
+   }
+  },
+  {
+   "key": "A.57|115111079",
+   "doc_id_hint": "pcc-115111079",
+   "unit_id": "A.57",
+   "job_number": "115111079",
+   "unit_name": "行政院主計總處",
+   "title": "行政院主計總處「116年客服資訊系統增修暨維護服務案」勞務採購案",
+   "school": false,
+   "matched_keywords": [
+    "資訊系統"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標更正公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 1560000,
+   "deadline": "2026-11-26",
+   "category": "勞務類842-軟體執行服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-18",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODUyNTA",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1⽉1⽇起⾄116年12⽉31⽇",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-16T18:00:43.500161+08:00",
+   "notice_history": [
+    {
+     "date": "20261116",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    },
+    {
+     "date": "20261118",
+     "type": "經公開評選或公開徵求之限制性招標更正公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,560,000元",
+    "category": "採購資料:標的分類=勞務類842-軟體執行服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/26 17:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=116年1⽉1⽇起⾄116年12⽉31⽇",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/18",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.82.11.1|1151124B",
+   "doc_id_hint": "pcc-1151124B",
+   "unit_id": "3.82.11.1",
+   "job_number": "1151124B",
+   "unit_name": "新北市政府採購處",
+   "title": "116年網路社群平台推廣計畫",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "經公開評選或公開徵求之限制性招標更正公告",
+   "stage": "tender",
+   "award_method": "準用最有利標",
+   "priority": true,
+   "priority_rank": 2,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "公開評選+10"
+   ],
+   "priority_tier": {
+    "name": "公開評選",
+    "rank": 2,
+    "bonus": 10,
+    "note": "評選制，不以最低價決標"
+   },
+   "lowest_bid": false,
+   "budget": 1745000,
+   "deadline": "2026-11-24",
+   "category": "勞務類911-政府行政服務",
+   "method": "經公開評選或公開徵求之限制性招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "新北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODA2NDQ",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [
+    "(2)倘屬原契約既有項目者，係以原契約條件及價金續約核算付款，因後續擴充致原契約所列項目之數量有所增加者，其單價不予調整，倘原契約列有數量增加時之價金調整規定者，亦不適用"
+   ],
+   "perf_period": "廠商應於機關通知日起至116年11月30日止之期間內完成履行採購標的之供應；其餘詳如採購案契約書（樣稿）第7條及需求說明書",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-13T17:51:02.067843+08:00",
+   "notice_history": [
+    {
+     "date": "20261113",
+     "type": "經公開評選或公開徵求之限制性招標公告"
+    },
+    {
+     "date": "20261119",
+     "type": "經公開評選或公開徵求之限制性招標更正公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=準用最有利標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,745,000元",
+    "category": "採購資料:標的分類=勞務類911-政府行政服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/24 14:00",
+    "method": "招標資料:招標方式=經公開評選或公開徵求之限制性招標",
+    "payment_notes": "其他:附加說明 等文字欄位",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=廠商應於機關通知日起至116年11月30日止之期間內完成履行採購標的之供應；其餘詳如採購案契約書（樣稿）第7條及需求說明書",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=新北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.10.5|115A11890007",
+   "doc_id_hint": "pcc-115A11890007",
+   "unit_id": "3.10.5",
+   "job_number": "115A11890007",
+   "unit_name": "國立臺北科技大學",
+   "title": "臺北聯合大學圖書資源共享平台維護案",
+   "school": true,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 279000,
+   "deadline": "2026-11-23",
+   "category": "勞務類844-資料庫服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-20",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTIzODg",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "115年12月1日至116年11月30日",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-12T00:26:20.833252+08:00",
+   "notice_history": [
+    {
+     "date": "20261112",
+     "type": "公開取得報價單或企劃書公告"
+    },
+    {
+     "date": "20261119",
+     "type": "無法決標公告"
+    },
+    {
+     "date": "20261120",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=279,000元",
+    "category": "採購資料:標的分類=勞務類844-資料庫服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/23 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=115年12月1日至116年11月30日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/20",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.13.31.48|20261104",
+   "doc_id_hint": "pcc-20261104",
+   "unit_id": "3.13.31.48",
+   "job_number": "20261104",
+   "unit_name": "台灣電力股份有限公司大林發電廠",
+   "title": "Gutor充電機系統升級一批(採購帶安裝)",
+   "school": false,
+   "matched_keywords": [
+    "系統升級"
+   ],
+   "status": "open",
+   "latest_type": "公開徵求廠商提供參考資料更正公告",
+   "stage": "rfi",
+   "award_method": null,
+   "priority": false,
+   "priority_rank": null,
+   "priority_bonus": 0,
+   "priority_labels": [],
+   "priority_tier": null,
+   "lowest_bid": false,
+   "budget": null,
+   "deadline": null,
+   "category": null,
+   "method": null,
+   "procurement_type": null,
+   "publish_date": null,
+   "location": null,
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261119&fn=PPW-2-70121924.xml",
+   "bid_bond": null,
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": null,
+   "contract_template": null,
+   "no_bonds": false,
+   "first_seen": "2026-11-11T17:45:24.029582+08:00",
+   "notice_history": [
+    {
+     "date": "20261106",
+     "type": "公開徵求廠商提供參考資料公告"
+    },
+    {
+     "date": "20261111",
+     "type": "公開徵求廠商提供參考資料更正公告"
+    },
+    {
+     "date": "20261118",
+     "type": "公開徵求廠商提供參考資料更正公告"
+    },
+    {
+     "date": "20261119",
+     "type": "公開徵求廠商提供參考資料更正公告"
+    }
+   ],
+   "evidence": {}
+  },
+  {
+   "key": "3.10.5|115A11890008",
+   "doc_id_hint": "pcc-115A11890008",
+   "unit_id": "3.10.5",
+   "job_number": "115A11890008",
+   "unit_name": "國立臺北科技大學",
+   "title": "圖書館電子資源管理系統維護案",
+   "school": true,
+   "matched_keywords": [
+    "系統維護",
+    "管理系統"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 347000,
+   "deadline": "2026-11-23",
+   "category": "勞務類844-資料庫服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTA3MjI",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "115年12月1日至116年11月30日",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-11T00:31:31.902882+08:00",
+   "notice_history": [
+    {
+     "date": "20261111",
+     "type": "公開取得報價單或企劃書公告"
+    },
+    {
+     "date": "20261118",
+     "type": "無法決標公告"
+    },
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=347,000元",
+    "category": "採購資料:標的分類=勞務類844-資料庫服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/23 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=115年12月1日至116年11月30日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.10.5|115A11890006",
+   "doc_id_hint": "pcc-115A11890006",
+   "unit_id": "3.10.5",
+   "job_number": "115A11890006",
+   "unit_name": "國立臺北科技大學",
+   "title": "圖書館自動化系統維護案",
+   "school": true,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 763200,
+   "deadline": "2026-11-23",
+   "category": "勞務類844-資料庫服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTA3Njg",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "115年12月1日至116年11月30日",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-11T00:31:31.902882+08:00",
+   "notice_history": [
+    {
+     "date": "20261111",
+     "type": "公開取得報價單或企劃書公告"
+    },
+    {
+     "date": "20261118",
+     "type": "無法決標公告"
+    },
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=763,200元",
+    "category": "採購資料:標的分類=勞務類844-資料庫服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/23 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=115年12月1日至116年11月30日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "A.21.100.52|lslp-2540-11530",
+   "doc_id_hint": "pcc-lslp-2540-11530",
+   "unit_id": "A.21.100.52",
+   "job_number": "lslp-2540-11530",
+   "unit_name": "衛生福利部樂生醫院",
+   "title": "動力中心2樓熱水鍋爐系統建置",
+   "school": false,
+   "matched_keywords": [
+    "系統建置"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 25,
+   "priority_labels": [
+    "公開取得+15",
+    "最低標+10"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": true,
+   "budget": 294000,
+   "deadline": "2026-11-24",
+   "category": "財物類17-電力,瓦斯,蒸氣及熱水",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "買受,定製",
+   "publish_date": "2026-11-18",
+   "location": "桃園市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODg5NDM",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": null,
+   "payment_notes": [],
+   "perf_period": "本案自決標次日起45日完成線路施工、裝機設定與測試，於院方規定之工作時間內完成所有作業事項等履約標的。",
+   "contract_template": "是",
+   "no_bonds": false,
+   "first_seen": "2026-11-06T05:26:35.506269+08:00",
+   "notice_history": [
+    {
+     "date": "20261022",
+     "type": "公開徵求廠商提供參考資料公告"
+    },
+    {
+     "date": "20261029",
+     "type": "公開取得報價單或企劃書公告"
+    },
+    {
+     "date": "20261118",
+     "type": "無法決標公告"
+    },
+    {
+     "date": "20261118",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=294,000元",
+    "category": "採購資料:標的分類=財物類17-電力,瓦斯,蒸氣及熱水",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/24 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_period": "其他:履約期限=本案自決標次日起45日完成線路施工、裝機設定與測試，於院方規定之工作時間內完成所有作業事項等履約標的。",
+    "procurement_type": "採購資料:財物採購性質=買受,定製",
+    "publish_date": "招標資料:公告日=115/11/18",
+    "remote_hint": "其他:履約地點=桃園市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.5.49|EX106003P001",
+   "doc_id_hint": "pcc-EX106003P001",
+   "unit_id": "3.5.49",
+   "job_number": "EX106003P001",
+   "unit_name": "國防部空軍司令部",
+   "title": "雷電偵測系統維護及資料獲得",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開招標公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 3,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "最低標+10"
+   ],
+   "priority_tier": null,
+   "lowest_bid": true,
+   "budget": 1860000,
+   "deadline": "2026-11-25",
+   "category": "勞務類843-資料處理服務",
+   "method": "公開招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺北市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTAzNzk",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "116年1月1日至116年12月31日",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-06T05:26:35.506269+08:00",
+   "notice_history": [
+    {
+     "date": "20261022",
+     "type": "公開招標公告"
+    },
+    {
+     "date": "20261106",
+     "type": "無法決標公告"
+    },
+    {
+     "date": "20261119",
+     "type": "公開招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,860,000元",
+    "category": "採購資料:標的分類=勞務類843-資料處理服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/25 17:00",
+    "method": "招標資料:招標方式=公開招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=116年1月1日至116年12月31日",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺北市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.13.52.8|1150801",
+   "doc_id_hint": "pcc-1150801",
+   "unit_id": "3.13.52.8",
+   "job_number": "1150801",
+   "unit_name": "台灣自來水股份有限公司第八區管理處",
+   "title": "116年國土資訊委外數作業",
+   "school": false,
+   "matched_keywords": [
+    "資訊委外"
+   ],
+   "status": "open",
+   "latest_type": "公開招標公告",
+   "stage": "tender",
+   "award_method": "最低標",
+   "priority": true,
+   "priority_rank": 3,
+   "priority_bonus": 10,
+   "priority_labels": [
+    "最低標+10"
+   ],
+   "priority_tier": null,
+   "lowest_bid": true,
+   "budget": 1360800,
+   "deadline": "2026-11-24",
+   "category": "勞務類843-資料處理服務",
+   "method": "公開招標",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-18",
+   "location": "宜蘭縣(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODg1MTY",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": true,
+    "text": "是"
+   },
+   "payment_notes": [],
+   "perf_period": "廠商應於機關通知開工之日起至116年12月31日之期間內履行採購標的之供應",
+   "contract_template": "否",
+   "no_bonds": false,
+   "first_seen": "2026-11-06T05:26:35.506269+08:00",
+   "notice_history": [
+    {
+     "date": "20261030",
+     "type": "公開招標公告"
+    },
+    {
+     "date": "20261117",
+     "type": "無法決標公告"
+    },
+    {
+     "date": "20261118",
+     "type": "公開招標公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=最低標",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,360,800元",
+    "category": "採購資料:標的分類=勞務類843-資料處理服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=否",
+    "deadline": "領投開標:截止投標=115/11/24 10:30",
+    "method": "招標資料:招標方式=公開招標",
+    "perf_bond": "領投開標:是否須繳納履約保證金=是",
+    "perf_period": "其他:履約期限=廠商應於機關通知開工之日起至116年12月31日之期間內履行採購標的之供應",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/18",
+    "remote_hint": "其他:履約地點=宜蘭縣(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.87.2|ca11603",
+   "doc_id_hint": "pcc-ca11603",
+   "unit_id": "3.87.2",
+   "job_number": "ca11603",
+   "unit_name": "臺中市政府民政局",
+   "title": "116年度戶政便民服務作業系統維護採購案",
+   "school": false,
+   "matched_keywords": [
+    "系統維護"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 950000,
+   "deadline": "2026-11-23",
+   "category": "勞務類845-辦公室機器及設備(包括電腦)之維修服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "臺中市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODU2NzY",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自116年1月1日至116年12月31日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-06T05:26:35.506269+08:00",
+   "notice_history": [
+    {
+     "date": "20261102",
+     "type": "公開取得報價單或企劃書公告"
+    },
+    {
+     "date": "20261113",
+     "type": "無法決標公告"
+    },
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=950,000元",
+    "category": "採購資料:標的分類=勞務類845-辦公室機器及設備(包括電腦)之維修服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/23 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自116年1月1日至116年12月31日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=臺中市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.80.33.4|115tm102",
+   "doc_id_hint": "pcc-115tm102",
+   "unit_id": "3.80.33.4",
+   "job_number": "115tm102",
+   "unit_name": "桃園市立美術館",
+   "title": "「桃源國際藝術獎」國際徵件平台系統優化維護及視覺設計案",
+   "school": false,
+   "matched_keywords": [
+    "平台",
+    "系統優化"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 1010000,
+   "deadline": "2026-11-23",
+   "category": "勞務類96-娛樂,文化,體育服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "桃園市(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzODg1ODI",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自決標日起至116年11月15日止。",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-06T05:26:35.506269+08:00",
+   "notice_history": [
+    {
+     "date": "20261103",
+     "type": "公開取得報價單或企劃書公告"
+    },
+    {
+     "date": "20261111",
+     "type": "無法決標公告"
+    },
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,010,000元",
+    "category": "採購資料:標的分類=勞務類96-娛樂,文化,體育服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/11/23 17:00",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自決標日起至116年11月15日止。",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=桃園市(非原住民地區)"
+   }
+  },
+  {
+   "key": "3.76.44.54|1150122",
+   "doc_id_hint": "pcc-1150122",
+   "unit_id": "3.76.44.54",
+   "job_number": "1150122",
+   "unit_name": "新竹縣竹東鎮公所",
+   "title": "116年度網路社群平台經營行銷案",
+   "school": false,
+   "matched_keywords": [
+    "平台"
+   ],
+   "status": "open",
+   "latest_type": "公開取得報價單或企劃書公告",
+   "stage": "tender",
+   "award_method": "參考最有利標精神",
+   "priority": true,
+   "priority_rank": 1,
+   "priority_bonus": 15,
+   "priority_labels": [
+    "公開取得+15"
+   ],
+   "priority_tier": {
+    "name": "公開取得",
+    "rank": 1,
+    "bonus": 15,
+    "note": "未達公告金額（150 萬以下）的中小型標案，最符合團隊規模"
+   },
+   "lowest_bid": false,
+   "budget": 1360000,
+   "deadline": "2026-12-01",
+   "category": "勞務類96-娛樂,文化,體育服務",
+   "method": "公開取得報價單或企劃書",
+   "procurement_type": "非屬財物之工程或勞務",
+   "publish_date": "2026-11-19",
+   "location": "新竹縣(非原住民地區)",
+   "award_vendor": null,
+   "award_amount": null,
+   "official_url": "https://web.pcc.gov.tw/tps/QueryTender/query/searchTenderDetail?pkPmsMain=NzEzOTA0OTE",
+   "bid_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "perf_bond": {
+    "required": false,
+    "text": "否"
+   },
+   "payment_notes": [],
+   "perf_period": "自 116年1月1日起至117年1月5日止",
+   "contract_template": "是",
+   "no_bonds": true,
+   "first_seen": "2026-11-06T05:26:35.506269+08:00",
+   "notice_history": [
+    {
+     "date": "20261104",
+     "type": "公開取得報價單或企劃書公告"
+    },
+    {
+     "date": "20261117",
+     "type": "無法決標公告"
+    },
+    {
+     "date": "20261119",
+     "type": "公開取得報價單或企劃書公告"
+    }
+   ],
+   "evidence": {
+    "award_method": "招標資料:決標方式=參考最有利標精神",
+    "bid_bond": "領投開標:是否須繳納押標金=否",
+    "budget": "採購資料:預算金額=1,360,000元",
+    "category": "採購資料:標的分類=勞務類96-娛樂,文化,體育服務",
+    "contract_template": "其他:本案採購契約是否採用主管機關訂定之範本=是",
+    "deadline": "領投開標:截止投標=115/12/01 08:30",
+    "method": "招標資料:招標方式=公開取得報價單或企劃書",
+    "perf_bond": "領投開標:是否須繳納履約保證金=否",
+    "perf_period": "其他:履約期限=自 116年1月1日起至117年1月5日止",
+    "procurement_type": "採購資料:財物採購性質=非屬財物之工程或勞務",
+    "publish_date": "招標資料:公告日=115/11/19",
+    "remote_hint": "其他:履約地點=新竹縣(非原住民地區)"
+   }
+  }
+ ],
+ "open_total": 207
+}
