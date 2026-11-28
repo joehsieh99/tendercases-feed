@@ -1,0 +1,39 @@
+{
+ "mode": "daily",
+ "window": {
+  "from": "2026-11-10",
+  "to": "2026-11-16"
+ },
+ "started": "2026-11-16T17:59:47.554012+08:00",
+ "finished": "2026-11-16T18:02:10.784876+08:00",
+ "health": {
+  "status": "ok",
+  "consecutive_degraded": 0,
+  "latest_data_time": "2026-11-16T00:00:00+08:00",
+  "issues": [
+   {
+    "level": "info",
+    "code": "no_data_off_day",
+    "day": "2026-11-14",
+    "msg": "非上班日無公告（週末）"
+   }
+  ],
+  "day_counts": {
+   "2026-11-10": 2323,
+   "2026-11-11": 3286,
+   "2026-11-12": 2997,
+   "2026-11-13": 3340,
+   "2026-11-15": 1,
+   "2026-11-16": 2324
+  }
+ },
+ "stats": {
+  "fetched_notices": 14271,
+  "new_candidates": 43,
+  "new_notices": 67,
+  "details_fetched": 65,
+  "detail_errors": 0,
+  "events": 32,
+  "api_calls": 90
+ }
+}
